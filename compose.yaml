@@ -1,0 +1,28 @@
+services:
+  coordinator:
+    build: .
+    command: ["python", "app.py", "api", "--host", "0.0.0.0", "--port", "9000"]
+    ports:
+      - "9000:9000"
+    environment:
+      OPINION_WORKER_TOKEN: ${OPINION_WORKER_TOKEN:?Set OPINION_WORKER_TOKEN in your environment}
+      OPINION_DATA_DIR: /data
+    volumes:
+      - opinion-data:/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:9000/api/health', timeout=3)"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+  worker:
+    build: .
+    command: ["python", "app.py", "worker", "--coordinator", "http://coordinator:9000"]
+    environment:
+      OPINION_WORKER_TOKEN: ${OPINION_WORKER_TOKEN:?Set OPINION_WORKER_TOKEN in your environment}
+    depends_on:
+      coordinator:
+        condition: service_healthy
+    restart: unless-stopped
+volumes:
+  opinion-data:

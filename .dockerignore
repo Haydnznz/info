@@ -1,0 +1,10 @@
+.git
+.idea
+__pycache__
+**/__pycache__
+runtime
+outputs
+reports
+graphs
+.env
+tests

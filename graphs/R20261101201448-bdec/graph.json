@@ -1,0 +1,35 @@
+{
+  "report_id": "R20261101201448-bdec",
+  "created_at": "2026-11-01T20:14:48+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "label": "人工智能大模型",
+      "type": "topic"
+    },
+    {
+      "id": "risk",
+      "label": "数据安全",
+      "type": "risk"
+    },
+    {
+      "id": "opportunity",
+      "label": "产业机会",
+      "type": "opportunity"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "risk",
+      "type": "关联风险",
+      "source_ref": "https://example.com/news/ai-001"
+    },
+    {
+      "source": "topic",
+      "target": "opportunity",
+      "type": "正向观点",
+      "source_ref": "https://example.com/news/ai-001"
+    }
+  ]
+}

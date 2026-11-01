@@ -1,0 +1,18 @@
+{
+  "query": "人工智能大模型",
+  "executed_at": "2026-11-01T20:14:48+08:00",
+  "sources": [
+    {
+      "type": "news",
+      "title": "示例新闻：人工智能大模型产业应用持续升温",
+      "url": "https://example.com/news/ai-001",
+      "summary": "围绕人工智能大模型的政策与产业动态受到关注。"
+    },
+    {
+      "type": "forum_post",
+      "title": "论坛讨论：用户如何看待该主题",
+      "url": "https://example.com/forum/42",
+      "summary": "用户讨论集中在落地价值、数据安全和成本。"
+    }
+  ]
+}
