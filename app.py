@@ -5,7 +5,7 @@ import secrets
 import subprocess
 import sys
 import time
-from backend.settings import config
+from utils.settings import config
 
 
 def main():
@@ -20,10 +20,10 @@ def main():
     if args.role == 'api':
         if not os.environ.get('OPINION_WORKER_TOKEN'):
             parser.error('Set OPINION_WORKER_TOKEN for the API role')
-        from backend.api import serve
+        from web.api import serve
         serve(args.host, args.port)
     elif args.role == 'worker':
-        from backend.worker import Worker
+        from tool.worker import Worker
         Worker(args.coordinator, args.worker_id).run()
     else:
         if not 1 <= args.workers <= 64:

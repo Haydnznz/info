@@ -20,7 +20,7 @@
 
 ## 3. 快速启动
 
-环境要求：Python 3.9 或更高版本。
+环境要求：Python 3.9 或更高版本。当前环境依赖清单见 `requirements.txt`，包含 FastAPI、Uvicorn、Pydantic、LangGraph、LangChain、OpenAI、Milvus、MinIO、MongoDB、FlagEmbedding、sentence-transformers、Transformers、DashScope、MCP、NumPy 和 Pandas 等。安装命令为 `python -m pip install -r requirements.txt`。
 
 ```powershell
 cd "D:\AI learn\info"
@@ -33,7 +33,40 @@ python app.py
 http://127.0.0.1:9000
 ```
 
-停止服务使用 `Ctrl+C`。首次运行会创建配置和运行目录。端口读取自 `config.json` 的 `system.port`。
+停止服务使用 `Ctrl+C`。首次运行会创建配置和运行目录。端口读取自 `config/config/config.json` 的 `system.port`。
+
+## 3.1 按职责划分的工程结构
+
+项目目录按截图所示的职责方式组织：
+
+```text
+info/
+├─ config/                       # 配置文件、配置校验和环境配置
+├─ input/                        # 信息输入层（三类来源）
+│  ├─ public_info.py              # 公开信息输入
+│  ├─ multimedia.py               # 多媒体内容输入
+│  └─ internal_data.py             # 内部沉淀数据输入
+├─ processor/                    # 信息处理分析层
+│  ├─ topic_search.py              # 主题检索
+│  ├─ multimedia_search.py        # 多媒体检索
+│  ├─ forum_collection.py         # 论坛采集
+│  ├─ insight_analysis.py         # 洞察分析
+│  ├─ report_generation.py        # 报告生成
+│  └─ graph_query.py              # 图谱查询
+├─ tool/                         # 可独立运行的 Worker 和运维工具
+├─ utils/                        # 存储、时间、JSON 和通用工具
+├─ web/                          # Web API、路由和控制层
+├─ frontend/                     # 页面、脚本和样式
+├─ test/                         # 自动化测试
+├─ reports/ graphs/ outputs/     # 业务结果目录
+├─ runtime/                      # 运行日志和 SQLite 状态库
+├─ app.py                        # 统一启动入口
+├─ .env.example                  # 环境变量模板
+├─ pyproject.toml                # 项目元数据和工具配置
+└─ requirements.txt              # 依赖清单
+```
+
+三类输入只存在于 `input/`，通过统一来源对象交给 `processor/`；六类处理能力只存在于 `processor/`；`frontend` 只负责展示和交互，`web` 只负责 HTTP 接口，`config`、`utils` 不承载页面或业务分析。旧的 `backend/inputs`、`backend/processing` 和 `backend/analysis.py` 已移除。
 
 ## 4. 项目结构
 
@@ -74,7 +107,7 @@ info/
 6. **`backend/graph.py`**：最新图谱、报告图谱和查询。
 7. **`backend/analysis.py`**：纯分析适配器，Worker 执行后只返回 JSON/Markdown。
 8. **`backend/worker.py`**：独立 HTTP Worker，包含领取、心跳、分析、提交和失败重试。
-9. **`backend/settings.py`**：数据根目录、时钟、JSON 原子写入和默认配置。
+9. **`utils/settings.py`**：数据根目录、时钟、JSON 原子写入和默认配置。
 
 ### 5.1 分布式拓扑
 
@@ -145,7 +178,7 @@ backend/
 
 ## 7. 配置说明
 
-`config.json` 当前结构：
+`config/config/config.json` 当前结构：
 
 ```json
 {
@@ -275,7 +308,7 @@ Content-Type: application/json
 
 ## 11. 前端扩展建议
 
-当前 `static/index.html` 是无构建步骤的单页页面。后续可迁移到 Vue/React，并保留现有 API 契约。优先增加：
+当前 `frontend/index.html` 是无构建步骤的单页页面。后续可迁移到 Vue/React，并保留现有 API 契约。优先增加：
 
 - 应用状态自动刷新和 WebSocket/SSE 实时消息；
 - 任务进度、任务历史和取消任务；
@@ -297,7 +330,7 @@ Content-Type: application/json
 当前已完成 8 项自动化测试，覆盖两个独立 OS Worker 的 HTTP 集成、并发领取、租约恢复、重试上限、重复提交幂等、停止后的入队保护、失败记录和论坛历史持久化。运行：
 
 ```powershell
-python -m unittest discover -s tests -v
+python -m unittest discover -s test -v
 ```
 
 继续开发时建议增加：

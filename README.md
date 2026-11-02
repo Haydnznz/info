@@ -1,6 +1,16 @@
 # 舆情分析平台
 
-这是一个无需第三方依赖即可运行的分布式演示实现，覆盖控制台、应用启停、主题检索、论坛日志、配置管理、报告落盘和图谱查询。后端拆分为 Coordinator（控制节点）和可水平扩展的 HTTP Worker。
+这是一个分布式舆情分析平台。当前环境依赖已记录在 `requirements.txt`，覆盖 FastAPI/Uvicorn、LangGraph/LangChain、OpenAI、Milvus、MinIO、MongoDB、向量模型和数据处理组件。后端拆分为 Coordinator（控制节点）和可水平扩展的 HTTP Worker。
+
+依赖安装：
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+真实信息采集目前直接使用已安装的 `requests`、标准库 XML/CSV/JSON 解析；不需要新增依赖。图片使用 Wikimedia API，视频需要配置 YouTube Data API key；内部数据可放入 `data/internal/`。后续如果需要网页渲染、OCR 或音视频转写，再单独安装浏览器、OCR 或 FFmpeg 工具。
+
+代码按职责拆分为 `input/`（三类信息输入）、`processor/`（六类分析处理）、`web/`（接口）、`frontend/`（页面）、`config/`（配置）、`tool/`（Worker）、`utils/`（通用能力）和 `test/`（测试）。
 
 ## 启动
 
@@ -8,7 +18,7 @@
 python app.py
 ```
 
-这会在本机启动 1 个 Coordinator 和 2 个 Worker。打开 http://127.0.0.1:9000 。首次启动会自动生成 `config.json`、`runtime/`、`outputs/`、`reports/` 和 `graphs/` 目录。
+这会在本机启动 1 个 Coordinator 和 2 个 Worker。打开 http://127.0.0.1:9000 。首次启动会自动生成 `config/config/config.json`、`runtime/`、`outputs/`、`reports/` 和 `graphs/` 目录。
 
 分开启动节点：
 
