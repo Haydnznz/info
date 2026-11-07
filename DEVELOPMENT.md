@@ -72,12 +72,13 @@ info/
 
 ```text
 info/
-├─ app.py                         # 后端、状态管理、文件存储和 HTTP 路由
-├─ config.json                    # 系统配置
+├─ app.py                         # 启动入口（Coordinator + Worker）
+├─ config/config.json             # 系统配置
 ├─ README.md                      # 快速说明
 ├─ DEVELOPMENT.md                # 本开发文档
-├─ static/
-│  └─ index.html                  # 单页 Web 控制台
+├─ frontend/
+│  ├─ index.html                  # 单页 Web 控制台
+│  └─ app.js                      # 前端脚本
 ├─ runtime/
 │  ├─ apps/{app_name}.log         # 单功能应用日志
 │  └─ forum/
@@ -93,21 +94,25 @@ info/
    └─ {report_id}/graph.json      # 报告对应的节点和边
 ```
 
-历史运行中可能存在旧版生成的 `outputs/*latest.txt` 文件；新代码使用 `outputs/{app_name}/latest.txt`，后续可以删除旧文件。
+旧版生成的 `outputs/*latest.txt`（无子目录）与 `outputs/*.py` 死代码已清理；当前统一使用 `outputs/{app_name}/latest.txt`。
 
 ## 5. 后端架构
 
-当前后端拆分为 `backend/` 包，`app.py` 仅负责启动角色：
+后端按职责拆分为 `web/`（HTTP 控制层）、`processor/`（分析流水线）、`input/`（信息输入）、`utils/`（存储与通用能力）：
 
-1. **`backend/api.py`**：Coordinator HTTP 控制层、公开 API 和 Worker 内部 API。
-2. **`backend/storage.py`**：SQLite 任务队列、状态、Worker 心跳和事件表。
-3. **`backend/services.py`**：控制层编排、应用状态、任务提交、结果提交和文件落盘。
-4. **`backend/configuration.py`**：配置读写和字段校验。
-5. **`backend/forum.py`**：论坛任务和历史日志。
-6. **`backend/graph.py`**：最新图谱、报告图谱和查询。
-7. **`backend/analysis.py`**：纯分析适配器，Worker 执行后只返回 JSON/Markdown。
-8. **`backend/worker.py`**：独立 HTTP Worker，包含领取、心跳、分析、提交和失败重试。
-9. **`utils/settings.py`**：数据根目录、时钟、JSON 原子写入和默认配置。
+1. **`web/fastapi_app.py`**：Coordinator 唯一 HTTP 入口，公开 API、SSE 流式和 Worker 内部 API。
+2. **`web/services.py`**：控制层编排、应用状态、任务提交、结果提交和文件落盘。
+3. **`web/forum.py`**：论坛任务和历史日志。
+4. **`web/graph.py`**：最新图谱、报告图谱和查询。
+5. **`web/schemas.py`**：请求/响应的 Pydantic 模型。
+6. **`processor/pipeline.py`**：LangGraph 编排的分析流水线（采集→清洗→向量→检索→洞察→LLM→报告→图谱）。
+7. **`processor/`**：主题检索、文本处理、向量检索、洞察、报告、图谱、LLM 洞察、多媒体流水线。
+8. **`input/`**：三类信息输入（豆包 MCP 搜索/GDELT/RSS、多媒体、内部数据）。
+9. **`utils/storage.py`**：SQLite 任务队列、状态、Worker 心跳和事件表。
+10. **`tool/worker.py`**：独立 HTTP Worker，包含领取、心跳、分析、提交和失败重试。
+11. **`utils/settings.py`**：数据根目录、时钟、JSON 原子写入和默认配置。
+
+旧的 `web/api.py` 标准库 HTTP 入口已移除，FastAPI 是唯一入口。
 
 ### 5.1 分布式拓扑
 
@@ -134,21 +139,6 @@ queued → running → succeeded
 ```
 
 `POST /api/search` 只负责入队。Worker 领取任务时获得 `token` 和 30 秒租约，每 5 秒发送心跳；提交结果时 Coordinator 校验任务、Worker、token 和租约。重复提交同一成功任务返回 `duplicate=true`。
-
-推荐的下一步拆分结构：
-
-```text
-backend/
-├─ main.py              # 启动入口
-├─ api/routes.py        # 路由和请求校验
-├─ services/apps.py     # 任务/进程管理
-├─ services/search.py   # 搜索和分析编排
-├─ services/forum.py    # 论坛采集
-├─ services/graph.py    # 图谱读写和查询
-├─ services/report.py   # 报告模板和导出
-├─ storage/files.py     # 当前文件存储适配器
-└─ models.py            # 数据结构和状态枚举
-```
 
 ## 6. 状态模型
 
@@ -178,7 +168,7 @@ backend/
 
 ## 7. 配置说明
 
-`config/config/config.json` 当前结构：
+`config/config.json` 当前结构：
 
 ```json
 {
@@ -367,3 +357,42 @@ python -m unittest discover -s test -v
 - 所有分析结论必须能关联来源 ID、论坛事件或图谱节点。
 - 文件写入前创建父目录，JSON 使用 UTF-8 和 `ensure_ascii=false`。
 - 生产实现中避免把长时间任务直接放在 HTTP 请求线程中。
+# 向量、LLM 与 FastAPI 扩展
+
+## 启动 FastAPI
+
+```powershell
+uvicorn web.fastapi_app:app --host 0.0.0.0 --port 9000
+```
+
+`app.py api` 也会调用同一个 FastAPI 服务。旧的 `web.api` 标准库入口保留用于兼容已有 Worker 测试和迁移。
+
+## 豆包 MCP 搜索启动方式
+
+项目默认在每次搜索任务中按 stdio 拉起官方 MCP Server：
+
+```powershell
+uv run mcp-server-askecho-search-infinity
+```
+
+平台自身使用：
+
+```powershell
+uv run python app.py
+```
+
+`.env` 最少配置 `ASK_ECHO_SEARCH_INFINITY_API_KEY` 和 `MCP_SEARCH_MODE=stdio`。如果 MCP Server 已独立运行，则使用 `MCP_SEARCH_MODE=sse` + `MCP_SEARCH_URL=http://127.0.0.1:<port>/sse`，或 `MCP_SEARCH_MODE=streamable-http` + 对应 HTTP URL。搜索适配器会先发现工具，再调用名称中包含 search/askecho/web 的工具；工具名不一致时设置 `MCP_SEARCH_TOOL`。
+
+## BGE-M3 / Milvus
+
+向量生成由 `processor/embedding.py` 统一封装，优先读取 `.env` 的 `BGE_M3_PATH`，本地模型不存在时明确抛出错误，不从网络静默下载。`processor/vector_retrieval.py` 将清洗后的来源入库并执行相似检索；Milvus schema 包含来源、报告、文本、类型、元数据和向量字段。
+
+Milvus Compose 在 `D:\\Ubuntu\\2`，当前虚拟机地址使用 `MILVUS_URL=http://192.168.10.129:19530`。该目录中的 `2695` 是虚拟机密码，不是 Milvus 凭据；如果服务启用认证，请在 `.env` 配置 `MILVUS_USER`、`MILVUS_PASSWORD` 或 `MILVUS_TOKEN`。
+
+## LangGraph
+
+`processor/llm_graph.py` 编排 `retrieve_context → topic_summary → opinion_clustering → sentiment_analysis → risk_detection → conclusion_generation`。LLM 只有在 `LLM_ENABLED=true` 且 `OPENAI_API_KEY` 存在时才会调用；否则返回 `llm_status=unavailable` 并保留规则分析结果。
+
+## 多媒体
+
+`processor/media_pipeline.py` 提供字幕/sidecar 读取、FFmpeg 关键帧、OpenAI 兼容 ASR、注入式 OCR 和证据关联。下载媒体、OCR 服务和 FFmpeg 由部署环境负责，测试使用本地字幕和注入客户端，不访问外部媒体。
