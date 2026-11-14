@@ -1,0 +1,1 @@
+运行输出日志由 Coordinator/Worker 进程写入 runtime/ 和控制台输出。

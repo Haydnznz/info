@@ -1,0 +1,20 @@
+[
+  {
+    "time": "2026-11-06T10:11:45.028486+08:00",
+    "event_type": "collector",
+    "message_text": "演示论坛任务已停止",
+    "task_status": "stopped"
+  },
+  {
+    "time": "2026-11-06T10:33:50.561380+08:00",
+    "event_type": "collector",
+    "message_text": "演示论坛任务已停止",
+    "task_status": "stopped"
+  },
+  {
+    "time": "2026-11-06T21:48:39.449643+08:00",
+    "event_type": "collector",
+    "message_text": "演示论坛任务已停止",
+    "task_status": "stopped"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "topic",
+      "label": "美国中期选举",
+      "type": "topic"
+    },
+    {
+      "id": "verification",
+      "label": "待核验",
+      "type": "status"
+    },
+    {
+      "id": "sentiment",
+      "label": "{\"positive\": 0, \"neutral\": 0, \"negative\": 0}",
+      "type": "sentiment"
+    },
+    {
+      "id": "risk-0",
+      "label": "外部来源不可达",
+      "type": "risk"
+    },
+    {
+      "id": "risk-1",
+      "label": "事件事实尚未核验",
+      "type": "risk"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "verification",
+      "type": "证据状态",
+      "source_ref": "internal://dataset/demo",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "sentiment",
+      "type": "情绪倾向",
+      "source_ref": "",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "risk-0",
+      "type": "风险关联",
+      "source_ref": "",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "risk-1",
+      "type": "风险关联",
+      "source_ref": "",
+      "source_id": "",
+      "confidence": 0.5
+    }
+  ],
+  "report_id": "R3e2b02db5cd44630824bd9457260bdd0",
+  "created_at": "2026-11-06T10:12:04.523945+08:00"
+}

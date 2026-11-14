@@ -1,0 +1,5 @@
+Worker test-worker -> http://coordinator
+----------------------------------------------------------------------
+Ran 23 tests in 14.034s
+
+OK

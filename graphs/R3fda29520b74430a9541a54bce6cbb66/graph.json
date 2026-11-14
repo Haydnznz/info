@@ -1,0 +1,3696 @@
+{
+  "nodes": [
+    {
+      "id": "topic",
+      "label": "美国中期选举",
+      "type": "topic"
+    },
+    {
+      "id": "verification",
+      "label": "待核验",
+      "type": "status"
+    },
+    {
+      "id": "10aa73b3b5142f996bbf",
+      "label": "中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局_中华网",
+      "type": "news"
+    },
+    {
+      "id": "c10c9d8e3b026495",
+      "label": "2026-11-06",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "8e29f20854db9347",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "4c96dcb741340cb1",
+      "label": "06 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "fcef0ee2bcead433",
+      "label": "12",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "11d56a8f795ce301",
+      "label": "18",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d07f2ee979fe7c04",
+      "label": "36 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "3f9f250aa0e23213",
+      "label": "38",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7193380565bc0d11",
+      "label": "53",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "913a60d7e578cb5a",
+      "label": "55",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "47feaac1bdbc7fec549d",
+      "label": "美国中期选举共和党遭重挫 败选结果引发震动——中国青年网",
+      "type": "news"
+    },
+    {
+      "id": "973fef0261a1cff7",
+      "label": "2026-11-05",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "73eba0968b94e384",
+      "label": "11月4日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "8e29f20854db9347",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "1b7b13d57c4b9859",
+      "label": "05 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7ba412abbb722967",
+      "label": "14",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "1c4dbc5935148cd7",
+      "label": "00 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "35bb50dd77e38290",
+      "label": "4",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "0970d8f3ffc55497745f",
+      "label": "民主党翻盘，“否决政治”或成美国常态_中国网",
+      "type": "news"
+    },
+    {
+      "id": "973fef0261a1cff7",
+      "label": "2026-11-05",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "73eba0968b94e384",
+      "label": "11月4日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "1b7b13d57c4b9859",
+      "label": "05 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "f46919ba9b0b2509",
+      "label": "13",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "cb9e5cba110da5e3",
+      "label": "25",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "35bb50dd77e38290",
+      "label": "4",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e81d4522ac6f8fbd",
+      "label": "否决政治",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "8ffa70bb9421a7a7",
+      "label": "分庭抗礼",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "a5766e2585dde1bc02a1",
+      "label": "[新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权",
+      "type": "news"
+    },
+    {
+      "id": "973fef0261a1cff7",
+      "label": "2026-11-05",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "3c002ec017dee5e0",
+      "label": "2026年11月05日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "1b7b13d57c4b9859",
+      "label": "05 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "9d911fc8eef91e5d",
+      "label": "05",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "daec840f0136987a",
+      "label": "33",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "095d0cf93bc5116f",
+      "label": "33 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "325a258592c84e00e496",
+      "label": "美国中期选举变局:民主党或重掌两院，特朗普面临更强制衡-中新网",
+      "type": "news"
+    },
+    {
+      "id": "766781e677a80a1f",
+      "label": "2026-11-04",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "78bdff626c37a35f",
+      "label": "2026年11月04日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "73eba0968b94e384",
+      "label": "11月4日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5aad3c461382d38b",
+      "label": "04 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "39bf10e8e1f5f862",
+      "label": "21",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "fcef0ee2bcead433",
+      "label": "12",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5205b7adea0c9543",
+      "label": "04",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d42880cb23175509",
+      "label": "21 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "35bb50dd77e38290",
+      "label": "4",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "ef05f367a459487e009a",
+      "label": "国际观察丨“蓝潮”后的特朗普困局-新华网",
+      "type": "news"
+    },
+    {
+      "id": "766781e677a80a1f",
+      "label": "2026-11-04",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "73eba0968b94e384",
+      "label": "11月4日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5aad3c461382d38b",
+      "label": "04 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "10313681fd94bdf8",
+      "label": "20",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "b09d5aaa1ff68e59",
+      "label": "28",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "59579ff3da999cdd",
+      "label": "25 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "35bb50dd77e38290",
+      "label": "4",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "fd1bc8877efea25c",
+      "label": "蓝潮",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "e000c58b1fe50bf3",
+      "label": "关税战",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "51ef024ecd36eed3c1f1",
+      "label": "2026年美国中期选举",
+      "type": "news"
+    },
+    {
+      "id": "8e29f20854db9347",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "676e509009dc2912",
+      "label": "2026年11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "c31b1d6e9b5612a1",
+      "label": "2025",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "93c55b0be07dce22",
+      "label": "35",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d1cb52f90aa2050c",
+      "label": "39",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "b10411b2662a173b",
+      "label": "2025",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "812f38c29a35df86",
+      "label": "美国党",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "94a31d7ae89612f18899",
+      "label": "美国中期选举最新民调显示，特朗普支持率38%，52%的受访民众支持民主党",
+      "type": "news"
+    },
+    {
+      "id": "8e29f20854db9347",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "6884f8fe6f166db0",
+      "label": "38%",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "2ae5d6c7dd5fc4e0",
+      "label": "52%",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "93c55b0be07dce22",
+      "label": "35",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "92eb532892c807f1",
+      "label": "36",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "c7520aa948f475a8",
+      "label": "44%",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "f7cb7a4eaa709c58c84c",
+      "label": "美国中期选举选情胶着 国会控制权争夺激烈",
+      "type": "news"
+    },
+    {
+      "id": "766781e677a80a1f",
+      "label": "2026-11-04",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "ab8f8b9aa34093a7",
+      "label": "10月29日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "224e1c47a656df58",
+      "label": "1月2日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5aad3c461382d38b",
+      "label": "04 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8c8426667a2ed673",
+      "label": "10",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6e4e5521e959b3a9",
+      "label": "07 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6bb0e7db99c7dd9f",
+      "label": "29",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "73e7bae9f0cca378",
+      "label": "1 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "c1918af55c87b4f1",
+      "label": "1",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "ab6e749e180f2c5e",
+      "label": "2",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "94404ba3968cf998",
+      "label": "46%",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6884f8fe6f166db0",
+      "label": "38%",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "648e2538e55dd8de",
+      "label": "218",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7508a22cc3546aee",
+      "label": "214",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6971bc8777e4c622",
+      "label": "期中考试",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "b06a6243ab8f9f53d692",
+      "label": "美国中期选举观察|美国中期选举再次上演党争“大戏” - 国际 - 中工网",
+      "type": "news"
+    },
+    {
+      "id": "766781e677a80a1f",
+      "label": "2026-11-04",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5aad3c461382d38b",
+      "label": "04 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "b4d95a26695db031",
+      "label": "03",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "0c9201d00641413d",
+      "label": "23 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "738be3feaee85084",
+      "label": "大戏",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "ab520cc904c161e1",
+      "label": "近期多 民意调查显示，以蓝色为代表色的民主党有望在选举中夺取众议院，而共和党和民主党在参议院的竞争或更加激烈。",
+      "type": "event",
+      "trigger": "调查"
+    },
+    {
+      "id": "c9c1713ea6b981f52c38",
+      "label": "美国中期选举开始投票-新华网",
+      "type": "news"
+    },
+    {
+      "id": "8e29f20854db9347",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "6c7f0adc9043a643",
+      "label": "2026-11-03",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "48bcff230a053130",
+      "label": "2026 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e81272a9f9aeab5c",
+      "label": "03 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8c5f0c0441de9d77",
+      "label": "19",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "eda8759a886672cc",
+      "label": "01",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "ca95935774282f74",
+      "label": "16 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "84ef4ce74114bd5f",
+      "label": "6",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "de68d905702b985b",
+      "label": "100",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "93c55b0be07dce22",
+      "label": "35",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6971bc8777e4c622",
+      "label": "期中考试",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "9a10bde97c69a939fb63",
+      "label": "美国中期选举今日正式开选 两党国会版图或迎调整!",
+      "type": "news"
+    },
+    {
+      "id": "6c7f0adc9043a643",
+      "label": "2026-11-03",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "91b26d3b25854a0b",
+      "label": "10月31日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e81272a9f9aeab5c",
+      "label": "03 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7613bf4738111fa0",
+      "label": "14 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8c8426667a2ed673",
+      "label": "10",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "be9fd96b29c8d68c",
+      "label": "31",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a331823c6c23b938",
+      "label": "5000",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "bcf85f3638462f3f452c",
+      "label": "什么是美国中期选举 总统执政的“期中考试”_新闻频道_中华网",
+      "type": "news"
+    },
+    {
+      "id": "6c7f0adc9043a643",
+      "label": "2026-11-03",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e81272a9f9aeab5c",
+      "label": "03 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8ca9f15d61259532",
+      "label": "09",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "49c2d67553e75b39",
+      "label": "43",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "f86e8d76817a99b9",
+      "label": "37 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6971bc8777e4c622",
+      "label": "期中考试",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "d6fe05d51130137a",
+      "label": "翻盘",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "bb7d126de882237cec07",
+      "label": "美国在政治极化与民生困境中迎来中期选举-新华网",
+      "type": "news"
+    },
+    {
+      "id": "8e29f20854db9347",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "7b0a4266deb27592",
+      "label": "2026-11-02",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "b3b4479bc51c84f5",
+      "label": "11月2日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "48bcff230a053130",
+      "label": "2026 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e197abacce7f816e",
+      "label": "02 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "cdca42a13f630c42",
+      "label": "15",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7b3e50bd36399ece",
+      "label": "32",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a6dfd2636bff6eb7",
+      "label": "47 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "ab6e749e180f2c5e",
+      "label": "2",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d6fe05d51130137a",
+      "label": "翻盘",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "7fcc3c6a68adba127e63",
+      "label": "美国中期选举倒计时:经济牌难打，共和党却将重金砸向性别议题|907编辑部_澎湃世界观_澎湃新闻-The Paper",
+      "type": "news"
+    },
+    {
+      "id": "b926c3d2971de168",
+      "label": "2026-10-29",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "8e29f20854db9347",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "56ee9fcda441e9a5",
+      "label": "907",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8c8426667a2ed673",
+      "label": "10",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "b4e4338ceb435e0d",
+      "label": "29 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d174beb63ae9e91a",
+      "label": "16",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6e4e5521e959b3a9",
+      "label": "07 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "93c55b0be07dce22",
+      "label": "35",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "92eb532892c807f1",
+      "label": "36",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "35bb50dd77e38290",
+      "label": "4",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7193380565bc0d11",
+      "label": "53",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d4c6629d4ff468bf",
+      "label": "47",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "30012e16b485a16f1537",
+      "label": "快问快答丨八个问题带你看懂美国中期选举 - 新华网客户端",
+      "type": "news"
+    },
+    {
+      "id": "7b0a4266deb27592",
+      "label": "2026-11-02",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "05e3326f629a5c30",
+      "label": "6097 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e197abacce7f816e",
+      "label": "02 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "9115f7b6cfee1b4faba8",
+      "label": "视频丨美国举行中期选举投票 多州开始计票",
+      "type": "news"
+    },
+    {
+      "id": "766781e677a80a1f",
+      "label": "2026-11-04",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5aad3c461382d38b",
+      "label": "04 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "fcef0ee2bcead433",
+      "label": "12",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "f46919ba9b0b2509",
+      "label": "13",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e922d575d950c6a8",
+      "label": "30 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "de68d905702b985b",
+      "label": "100",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "93c55b0be07dce22",
+      "label": "35",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "92eb532892c807f1",
+      "label": "36",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6971bc8777e4c622",
+      "label": "期中考试",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "80e23fc1abd089f07a3d",
+      "label": "美国举行中期选举投票 特朗普政府迎来“期中考试” - 求是网",
+      "type": "news"
+    },
+    {
+      "id": "766781e677a80a1f",
+      "label": "2026-11-04",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "370dda42d25b400b",
+      "label": "11月3日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5aad3c461382d38b",
+      "label": "04 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8c8426667a2ed673",
+      "label": "10",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d1cb52f90aa2050c",
+      "label": "39",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "d97cac1fa6e456cf",
+      "label": "43 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "84ef4ce74114bd5f",
+      "label": "6",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8c5f0c0441de9d77",
+      "label": "19",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6971bc8777e4c622",
+      "label": "期中考试",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "86e89889254be1d6d4c5",
+      "label": "特朗普政府迎来“期中考试” 楚天都市报",
+      "type": "news"
+    },
+    {
+      "id": "78bdff626c37a35f",
+      "label": "2026年11月04日",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "5205b7adea0c9543",
+      "label": "04",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "162b6c85bac78bb2",
+      "label": "3",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "84ef4ce74114bd5f",
+      "label": "6",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "8c5f0c0441de9d77",
+      "label": "19",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "de68d905702b985b",
+      "label": "100",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "93c55b0be07dce22",
+      "label": "35",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "92eb532892c807f1",
+      "label": "36",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6971bc8777e4c622",
+      "label": "期中考试",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "b6616b6b5833c265aed6",
+      "label": "特朗普的“期中考试”来了!",
+      "type": "news"
+    },
+    {
+      "id": "6c7f0adc9043a643",
+      "label": "2026-11-03",
+      "type": "entity",
+      "entity_type": "date"
+    },
+    {
+      "id": "16ccb9f1c39e2b20",
+      "label": "2026",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "7df171430b4050d8",
+      "label": "11",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "e81272a9f9aeab5c",
+      "label": "03 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "329f54a45cc6515f",
+      "label": "07",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "f86e8d76817a99b9",
+      "label": "37 ",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "a5b04c8eb6e8bf43",
+      "label": "435",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "de68d905702b985b",
+      "label": "100",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "93c55b0be07dce22",
+      "label": "35",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "92eb532892c807f1",
+      "label": "36",
+      "type": "entity",
+      "entity_type": "number"
+    },
+    {
+      "id": "6971bc8777e4c622",
+      "label": "期中考试",
+      "type": "entity",
+      "entity_type": "named_topic"
+    },
+    {
+      "id": "risk",
+      "label": "未经核验的信息扩散",
+      "type": "risk"
+    },
+    {
+      "id": "official",
+      "label": "官方通报待补充",
+      "type": "evidence_gap"
+    },
+    {
+      "id": "sentiment",
+      "label": "{\"positive\": 89, \"neutral\": 0, \"negative\": 11}",
+      "type": "sentiment"
+    },
+    {
+      "id": "risk-0",
+      "label": "需要核验：原因",
+      "type": "risk"
+    },
+    {
+      "id": "risk-1",
+      "label": "需要核验：调查",
+      "type": "risk"
+    },
+    {
+      "id": "risk-2",
+      "label": "需要核验：责任",
+      "type": "risk"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "verification",
+      "type": "证据状态",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "10aa73b3b5142f996bbf",
+      "type": "来源证据",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "c10c9d8e3b026495",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "8e29f20854db9347",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "4c96dcb741340cb1",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "fcef0ee2bcead433",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "11d56a8f795ce301",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "d07f2ee979fe7c04",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "3f9f250aa0e23213",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "7193380565bc0d11",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "10aa73b3b5142f996bbf",
+      "target": "913a60d7e578cb5a",
+      "type": "实体提及",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "10aa73b3b5142f996bbf",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "47feaac1bdbc7fec549d",
+      "type": "来源证据",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "973fef0261a1cff7",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "73eba0968b94e384",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "8e29f20854db9347",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "1b7b13d57c4b9859",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "7ba412abbb722967",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "1c4dbc5935148cd7",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "47feaac1bdbc7fec549d",
+      "target": "35bb50dd77e38290",
+      "type": "实体提及",
+      "source_ref": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "source_id": "47feaac1bdbc7fec549d",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "0970d8f3ffc55497745f",
+      "type": "来源证据",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "973fef0261a1cff7",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "73eba0968b94e384",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "1b7b13d57c4b9859",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "f46919ba9b0b2509",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "cb9e5cba110da5e3",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "35bb50dd77e38290",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "e81d4522ac6f8fbd",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "0970d8f3ffc55497745f",
+      "target": "8ffa70bb9421a7a7",
+      "type": "实体提及",
+      "source_ref": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "source_id": "0970d8f3ffc55497745f",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "a5766e2585dde1bc02a1",
+      "type": "来源证据",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "973fef0261a1cff7",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "3c002ec017dee5e0",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "1b7b13d57c4b9859",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "9d911fc8eef91e5d",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "daec840f0136987a",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "a5766e2585dde1bc02a1",
+      "target": "095d0cf93bc5116f",
+      "type": "实体提及",
+      "source_ref": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "source_id": "a5766e2585dde1bc02a1",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "325a258592c84e00e496",
+      "type": "来源证据",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "766781e677a80a1f",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "78bdff626c37a35f",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "73eba0968b94e384",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "5aad3c461382d38b",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "39bf10e8e1f5f862",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "fcef0ee2bcead433",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "5205b7adea0c9543",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "d42880cb23175509",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "35bb50dd77e38290",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "325a258592c84e00e496",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "source_id": "325a258592c84e00e496",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "ef05f367a459487e009a",
+      "type": "来源证据",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "766781e677a80a1f",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "73eba0968b94e384",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "5aad3c461382d38b",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "10313681fd94bdf8",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "b09d5aaa1ff68e59",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "59579ff3da999cdd",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "35bb50dd77e38290",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "fd1bc8877efea25c",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "ef05f367a459487e009a",
+      "target": "e000c58b1fe50bf3",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "source_id": "ef05f367a459487e009a",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "51ef024ecd36eed3c1f1",
+      "type": "来源证据",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "8e29f20854db9347",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "676e509009dc2912",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "c31b1d6e9b5612a1",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "93c55b0be07dce22",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "d1cb52f90aa2050c",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "b10411b2662a173b",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "51ef024ecd36eed3c1f1",
+      "target": "812f38c29a35df86",
+      "type": "实体提及",
+      "source_ref": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "source_id": "51ef024ecd36eed3c1f1",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "94a31d7ae89612f18899",
+      "type": "来源证据",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "8e29f20854db9347",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "6884f8fe6f166db0",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "2ae5d6c7dd5fc4e0",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "93c55b0be07dce22",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "92eb532892c807f1",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "94a31d7ae89612f18899",
+      "target": "c7520aa948f475a8",
+      "type": "实体提及",
+      "source_ref": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "source_id": "94a31d7ae89612f18899",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "f7cb7a4eaa709c58c84c",
+      "type": "来源证据",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "766781e677a80a1f",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "ab8f8b9aa34093a7",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "224e1c47a656df58",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "5aad3c461382d38b",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "8c8426667a2ed673",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "6e4e5521e959b3a9",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "6bb0e7db99c7dd9f",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "73e7bae9f0cca378",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "c1918af55c87b4f1",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "ab6e749e180f2c5e",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "94404ba3968cf998",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "6884f8fe6f166db0",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "648e2538e55dd8de",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "7508a22cc3546aee",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "f7cb7a4eaa709c58c84c",
+      "target": "6971bc8777e4c622",
+      "type": "实体提及",
+      "source_ref": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "b06a6243ab8f9f53d692",
+      "type": "来源证据",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "766781e677a80a1f",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "5aad3c461382d38b",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "b4d95a26695db031",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "0c9201d00641413d",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "738be3feaee85084",
+      "type": "实体提及",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "b06a6243ab8f9f53d692",
+      "target": "ab520cc904c161e1",
+      "type": "事件证据",
+      "source_ref": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "source_id": "b06a6243ab8f9f53d692",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "c9c1713ea6b981f52c38",
+      "type": "来源证据",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "8e29f20854db9347",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "6c7f0adc9043a643",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "48bcff230a053130",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "e81272a9f9aeab5c",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "8c5f0c0441de9d77",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "eda8759a886672cc",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "ca95935774282f74",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "84ef4ce74114bd5f",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "de68d905702b985b",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "93c55b0be07dce22",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "c9c1713ea6b981f52c38",
+      "target": "6971bc8777e4c622",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "source_id": "c9c1713ea6b981f52c38",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "9a10bde97c69a939fb63",
+      "type": "来源证据",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "6c7f0adc9043a643",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "91b26d3b25854a0b",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "e81272a9f9aeab5c",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "7613bf4738111fa0",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "8c8426667a2ed673",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "be9fd96b29c8d68c",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "a331823c6c23b938",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "9a10bde97c69a939fb63",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "https://kan.china.com/article/5190138.html",
+      "source_id": "9a10bde97c69a939fb63",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "bcf85f3638462f3f452c",
+      "type": "来源证据",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "6c7f0adc9043a643",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "e81272a9f9aeab5c",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "8ca9f15d61259532",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "49c2d67553e75b39",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "f86e8d76817a99b9",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "6971bc8777e4c622",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "bcf85f3638462f3f452c",
+      "target": "d6fe05d51130137a",
+      "type": "实体提及",
+      "source_ref": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "source_id": "bcf85f3638462f3f452c",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "bb7d126de882237cec07",
+      "type": "来源证据",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "8e29f20854db9347",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "7b0a4266deb27592",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "b3b4479bc51c84f5",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "48bcff230a053130",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "e197abacce7f816e",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "cdca42a13f630c42",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "7b3e50bd36399ece",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "a6dfd2636bff6eb7",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "ab6e749e180f2c5e",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "bb7d126de882237cec07",
+      "target": "d6fe05d51130137a",
+      "type": "实体提及",
+      "source_ref": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "source_id": "bb7d126de882237cec07",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "7fcc3c6a68adba127e63",
+      "type": "来源证据",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "b926c3d2971de168",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "8e29f20854db9347",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "56ee9fcda441e9a5",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "8c8426667a2ed673",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "b4e4338ceb435e0d",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "d174beb63ae9e91a",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "6e4e5521e959b3a9",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "93c55b0be07dce22",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "92eb532892c807f1",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "35bb50dd77e38290",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "7193380565bc0d11",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "7fcc3c6a68adba127e63",
+      "target": "d4c6629d4ff468bf",
+      "type": "实体提及",
+      "source_ref": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "source_id": "7fcc3c6a68adba127e63",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "30012e16b485a16f1537",
+      "type": "来源证据",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "30012e16b485a16f1537",
+      "target": "7b0a4266deb27592",
+      "type": "实体提及",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "30012e16b485a16f1537",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "30012e16b485a16f1537",
+      "target": "05e3326f629a5c30",
+      "type": "实体提及",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "30012e16b485a16f1537",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "30012e16b485a16f1537",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "30012e16b485a16f1537",
+      "target": "e197abacce7f816e",
+      "type": "实体提及",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "30012e16b485a16f1537",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "source_id": "30012e16b485a16f1537",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "9115f7b6cfee1b4faba8",
+      "type": "来源证据",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "766781e677a80a1f",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "5aad3c461382d38b",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "fcef0ee2bcead433",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "f46919ba9b0b2509",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "e922d575d950c6a8",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "de68d905702b985b",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "93c55b0be07dce22",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "92eb532892c807f1",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "9115f7b6cfee1b4faba8",
+      "target": "6971bc8777e4c622",
+      "type": "实体提及",
+      "source_ref": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "source_id": "9115f7b6cfee1b4faba8",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "80e23fc1abd089f07a3d",
+      "type": "来源证据",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "766781e677a80a1f",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "370dda42d25b400b",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "5aad3c461382d38b",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "8c8426667a2ed673",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "d1cb52f90aa2050c",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "d97cac1fa6e456cf",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "84ef4ce74114bd5f",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "8c5f0c0441de9d77",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "80e23fc1abd089f07a3d",
+      "target": "6971bc8777e4c622",
+      "type": "实体提及",
+      "source_ref": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "source_id": "80e23fc1abd089f07a3d",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "86e89889254be1d6d4c5",
+      "type": "来源证据",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "78bdff626c37a35f",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "5205b7adea0c9543",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "162b6c85bac78bb2",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "84ef4ce74114bd5f",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "8c5f0c0441de9d77",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "de68d905702b985b",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "93c55b0be07dce22",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "92eb532892c807f1",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "86e89889254be1d6d4c5",
+      "target": "6971bc8777e4c622",
+      "type": "实体提及",
+      "source_ref": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "source_id": "86e89889254be1d6d4c5",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "b6616b6b5833c265aed6",
+      "type": "来源证据",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "6c7f0adc9043a643",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "16ccb9f1c39e2b20",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "7df171430b4050d8",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "e81272a9f9aeab5c",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "329f54a45cc6515f",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "f86e8d76817a99b9",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "a5b04c8eb6e8bf43",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "de68d905702b985b",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "93c55b0be07dce22",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "92eb532892c807f1",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "b6616b6b5833c265aed6",
+      "target": "6971bc8777e4c622",
+      "type": "实体提及",
+      "source_ref": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "source_id": "b6616b6b5833c265aed6",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "risk",
+      "type": "关注风险",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "official",
+      "type": "缺失证据",
+      "source_ref": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "sentiment",
+      "type": "情绪倾向",
+      "source_ref": "",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "risk-0",
+      "type": "风险关联",
+      "source_ref": "",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "risk-1",
+      "type": "风险关联",
+      "source_ref": "",
+      "source_id": "",
+      "confidence": 0.5
+    },
+    {
+      "source": "topic",
+      "target": "risk-2",
+      "type": "风险关联",
+      "source_ref": "",
+      "source_id": "",
+      "confidence": 0.5
+    }
+  ],
+  "report_id": "R3fda29520b74430a9541a54bce6cbb66",
+  "created_at": "2026-11-06T21:16:34.910100+08:00"
+}

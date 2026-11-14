@@ -1,0 +1,53 @@
+{
+  "report_id": "Rf18d6881b03d47a1",
+  "query": "美国公务机坠毁",
+  "executed_at": "2026-11-03T21:14:56.573665+08:00",
+  "sources": [
+    {
+      "source_id": "4d3f9d06265e43601d81",
+      "type": "internal_data",
+      "title": "内部演示数据",
+      "url": "internal://demo",
+      "summary": "未配置内部数据目录，主题 美国公务机坠毁 暂无匹配记录。",
+      "published_at": null,
+      "collected_at": "2026-11-03T13:14:56.772744+00:00",
+      "input_family": "internal_data"
+    }
+  ],
+  "timeline": [
+    {
+      "event": "完成主题“美国公务机坠毁”多源检索"
+    }
+  ],
+  "sentiment": {
+    "positive": 0,
+    "neutral": 100,
+    "negative": 0
+  },
+  "summary": "当前仅获得少量内部或非事件证据，分析置信度低；结论仅用于监测任务编排，不代表事故事实已确认。",
+  "input_errors": [
+    {
+      "input": "public_info",
+      "error": "ConnectionError: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8A%A1%E6%9C%BA%E5%9D%A0%E6%AF%81&mode=artlist&format=json&maxrecords=20&sort=datedesc (Caused by NewConnectionError(\"HTTPSConnection(host='api.gdeltproject.org', port=443): Failed to establish a new connection: [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。\"))"
+    },
+    {
+      "input": "multimedia",
+      "error": "ConnectionError: HTTPSConnectionPool(host='commons.wikimedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&generator=search&gsrsearch=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8A%A1%E6%9C%BA%E5%9D%A0%E6%AF%81&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata&format=json (Caused by NewConnectionError(\"HTTPSConnection(host='commons.wikimedia.org', port=443): Failed to establish a new connection: [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。\"))"
+    }
+  ],
+  "source_stats": {
+    "news": 0,
+    "image": 0,
+    "video": 0,
+    "forum_post": 0,
+    "internal_data": 1
+  },
+  "analysis_stages": [
+    "topic_search",
+    "multimedia_search",
+    "forum_collection",
+    "insight_analysis"
+  ],
+  "evidence_quality": "low",
+  "graph_path": "/api/graph/Rf18d6881b03d47a1"
+}

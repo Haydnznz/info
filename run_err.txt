@@ -1,0 +1,1 @@
+运行错误日志由 Coordinator/Worker 进程写入 runtime/，错误事件通过 /api/events 查询。

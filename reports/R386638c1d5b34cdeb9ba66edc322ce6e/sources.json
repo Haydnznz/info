@@ -1,0 +1,1830 @@
+{
+  "query": "立冬",
+  "executed_at": "2026-11-07T17:04:19.182923+08:00",
+  "sources": [
+    {
+      "source_id": "55c0990ebed167e318a4",
+      "type": "news",
+      "title": "【民谚里的科学密码·立冬】解锁人间烟火中触发的鲜活场景_新闻频道_央视网(cctv.com)",
+      "url": "https://news.cctv.cn/2026/11/07/ARTIAPlOpSnIUK2rmvx4K51e261107.shtml",
+      "summary": "【民谚里的科学密码·立冬】解锁人间烟火中触发的鲜活场景\n来源：央视网 | 2026年11月07日 14:10:41\n央视网 | 2026年11月07日 14:10:41\n央视网消息：11月7日，北京时间17时52分迎来二十四节气中的立冬。民间流传着“立冬晴，一冬晴；立冬雨，一冬雨”；“立冬有麦，不受灾害”；“立冬补冬，补嘴空”；“不到立冬不开秤，立冬采摘，冬至品味”。这些民谚的背后藏着哪些朴素的科学原理，人间烟火中又触发了哪些鲜活场景？\n 立冬标志着秋收结束、冬藏开",
+      "published_at": "2026-11-07T14:10:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131150+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "【民谚里的科学密码·立冬】解锁人间烟火中触发的鲜活场景_新闻频道_央视网(cctv.com) 【民谚里的科学密码·立冬】解锁人间烟火中触发的鲜活场景 来源：央视网 | 2026年11月07日 14:10:41 央视网 | 2026年11月07日 14:10:41 央视网消息：11月7日，北京时间17时52分迎来二十四节气中的立冬。民间流传着“立冬晴，一冬晴；立冬雨，一冬雨”；“立冬有麦，不受灾害”；“立冬补冬，补嘴空”；“不到立冬不开秤，立冬采摘，冬至品味”。这些民谚的背后藏着哪些朴素的科学原理，人间烟火中又触发了哪些鲜活场景？ 立冬标志着秋收结束、冬藏开",
+      "language": "zh-en",
+      "segments": [
+        "【民谚里的科学密码·立冬】解锁人间烟火中触发的鲜活场景_新闻频道_央视网(cctv.com) 【民谚里的科学密码·立冬】解锁人间烟火中触发的鲜活场景 来源：央视网 | 2026年11月07日 14:10:41 央视网 | 2026年11月07日 14:10:41 央视网消息：11月7日，北京时间17时52分迎来二十四节气中的立冬。",
+        "民间流传着“立冬晴，一冬晴；",
+        "立冬雨，一冬雨”；",
+        "“立冬有麦，不受灾害”；",
+        "“立冬补冬，补嘴空”；",
+        "“不到立冬不开秤，立冬采摘，冬至品味”。",
+        "这些民谚的背后藏着哪些朴素的科学原理，人间烟火中又触发了哪些鲜活场景？",
+        "立冬标志着秋收结束、冬藏开"
+      ],
+      "entities": [
+        {
+          "entity_id": "4d0112e6d21d4d46",
+          "type": "date",
+          "value": "2026年11月07日",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "2026年11月07日"
+        },
+        {
+          "entity_id": "4551861f8972e2e6",
+          "type": "date",
+          "value": "11月7日",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "11月7日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "329f54a45cc6515f",
+          "type": "number",
+          "value": "07",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "07"
+        },
+        {
+          "entity_id": "7ba412abbb722967",
+          "type": "number",
+          "value": "14",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "14"
+        },
+        {
+          "entity_id": "8c8426667a2ed673",
+          "type": "number",
+          "value": "10",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "10"
+        },
+        {
+          "entity_id": "2edefd109d1a178a",
+          "type": "number",
+          "value": "41 ",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "41 "
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "dfcde5aebb9fff47",
+          "type": "number",
+          "value": "17",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "17"
+        },
+        {
+          "entity_id": "f386334a2b319953",
+          "type": "number",
+          "value": "52",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "52"
+        },
+        {
+          "entity_id": "883ee6e32b664a64",
+          "type": "named_topic",
+          "value": "立冬晴，一冬晴；立冬雨，一冬雨",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "立冬晴，一冬晴；立冬雨，一冬雨"
+        },
+        {
+          "entity_id": "23a9a7b7e09d513f",
+          "type": "named_topic",
+          "value": "立冬有麦，不受灾害",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "立冬有麦，不受灾害"
+        },
+        {
+          "entity_id": "dfa610a68a4b01f3",
+          "type": "named_topic",
+          "value": "立冬补冬，补嘴空",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "立冬补冬，补嘴空"
+        },
+        {
+          "entity_id": "7ce2d54769def098",
+          "type": "named_topic",
+          "value": "不到立冬不开秤，立冬采摘，冬至品味",
+          "source_id": "55c0990ebed167e318a4",
+          "evidence": "不到立冬不开秤，立冬采摘，冬至品味"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 8,
+        "entity_count": 15,
+        "event_count": 0
+      },
+      "content_fingerprint": "2adb107136084d4dd7a677450cbaca2ec444fe0c21688d2950d13675bf4ba72e",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "87c021261f324d580484",
+      "type": "news",
+      "title": "东巴文话二十四节气 | 立冬_新浪财经_新浪网",
+      "url": "https://finance.sina.com.cn/wm/2026-11-07/doc-inixwnyh8352130.shtml",
+      "summary": "东巴文话二十四节气 | 立冬\n2026年11月07日 10:05 丽江发布\n立冬是冬季的第一个节气，此时太阳到达黄经225度，交节时间通常在公历11月7日或8日。元代文人吴澄在《月令七十二候集解》中这样解释立冬：“冬，终也，万物收藏也。”此时草木凋零、作物归仓，动物也纷纷开始蛰伏避寒。\n民间习惯以立冬为冬季的开始，但我国幅员辽阔，各地冬季并非同时开始。立冬前后，大部分地区降水明显减少，空气渐趋干燥，土壤含水量较少。在云南，天气变化更 \n本文作者：丽江发布",
+      "published_at": "2026-11-07T10:24:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131359+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "东巴文话二十四节气 | 立冬_新浪财经_新浪网 东巴文话二十四节气 | 立冬 2026年11月07日 10:05 丽江发布 立冬是冬季的第一个节气，此时太阳到达黄经225度，交节时间通常在公历11月7日或8日。元代文人吴澄在《月令七十二候集解》中这样解释立冬：“冬，终也，万物收藏也。”此时草木凋零、作物归仓，动物也纷纷开始蛰伏避寒。 民间习惯以立冬为冬季的开始，但我国幅员辽阔，各地冬季并非同时开始。立冬前后，大部分地区降水明显减少，空气渐趋干燥，土壤含水量较少。在云南，天气变化更 本文作者：丽江发布",
+      "language": "zh",
+      "segments": [
+        "东巴文话二十四节气 | 立冬_新浪财经_新浪网 东巴文话二十四节气 | 立冬 2026年11月07日 10:05 丽江发布 立冬是冬季的第一个节气，此时太阳到达黄经225度，交节时间通常在公历11月7日或8日。",
+        "元代文人吴澄在《月令七十二候集解》中这样解释立冬：“冬，终也，万物收藏也。",
+        "”此时草木凋零、作物归仓，动物也纷纷开始蛰伏避寒。",
+        "民间习惯以立冬为冬季的开始，但我国幅员辽阔，各地冬季并非同时开始。",
+        "立冬前后，大部分地区降水明显减少，空气渐趋干燥，土壤含水量较少。",
+        "在云南，天气变化更 本文作者：丽江发布"
+      ],
+      "entities": [
+        {
+          "entity_id": "4d0112e6d21d4d46",
+          "type": "date",
+          "value": "2026年11月07日",
+          "source_id": "87c021261f324d580484",
+          "evidence": "2026年11月07日"
+        },
+        {
+          "entity_id": "4551861f8972e2e6",
+          "type": "date",
+          "value": "11月7日",
+          "source_id": "87c021261f324d580484",
+          "evidence": "11月7日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "87c021261f324d580484",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "87c021261f324d580484",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "329f54a45cc6515f",
+          "type": "number",
+          "value": "07",
+          "source_id": "87c021261f324d580484",
+          "evidence": "07"
+        },
+        {
+          "entity_id": "8c8426667a2ed673",
+          "type": "number",
+          "value": "10",
+          "source_id": "87c021261f324d580484",
+          "evidence": "10"
+        },
+        {
+          "entity_id": "1b7b13d57c4b9859",
+          "type": "number",
+          "value": "05 ",
+          "source_id": "87c021261f324d580484",
+          "evidence": "05 "
+        },
+        {
+          "entity_id": "edabd543b41ca275",
+          "type": "number",
+          "value": "225",
+          "source_id": "87c021261f324d580484",
+          "evidence": "225"
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "87c021261f324d580484",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "570bbde4184aa9e8",
+          "type": "number",
+          "value": "8",
+          "source_id": "87c021261f324d580484",
+          "evidence": "8"
+        },
+        {
+          "entity_id": "265159180855137d",
+          "type": "named_topic",
+          "value": "月令七十二候集解",
+          "source_id": "87c021261f324d580484",
+          "evidence": "月令七十二候集解"
+        },
+        {
+          "entity_id": "841df49312a10335",
+          "type": "named_topic",
+          "value": "冬，终也，万物收藏也。",
+          "source_id": "87c021261f324d580484",
+          "evidence": "冬，终也，万物收藏也。"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "b2aabab514c61b8a",
+          "trigger": "发布",
+          "description": "东巴文话二十四节气 | 立冬_新浪财经_新浪网 东巴文话二十四节气 | 立冬 2026年11月07日 10:05 丽江发布 立冬是冬季的第一个节气，此时太阳到达黄经225度，交节时间通常在公历11月7日或8日。",
+          "dates": [
+            "2026年11月07日",
+            "11月7日"
+          ],
+          "source_id": "87c021261f324d580484"
+        },
+        {
+          "event_id": "088f047ea48ecfba",
+          "trigger": "发布",
+          "description": "在云南，天气变化更 本文作者：丽江发布",
+          "dates": [],
+          "source_id": "87c021261f324d580484"
+        }
+      ],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 6,
+        "entity_count": 12,
+        "event_count": 2
+      },
+      "content_fingerprint": "eb6c52344739584c8d1e0894a6b1a4b9f85563acd2b60b47b00fa911f778b62a",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "ec2d1d3ec2257beb4f9e",
+      "type": "news",
+      "title": "今日立冬:秋色尽，安暖迎新冬-新闻中心-北方网",
+      "url": "http://news.enorth.com.cn/system/2026/11/07/059973715.shtml",
+      "summary": "今日立冬：秋色尽，安暖迎新冬\n来源： 津云 作者：  编辑：焦若玉  2026-11-07 07:58:59\n今天，我们迎来冬季的第一个节气——立冬。立冬是二十四节气中第十九个节气，也是冬季的起始。《月令七十二候集解》中记载：“立，建始也；冬，终也，万物收藏也。”立冬不仅标志着冬季的开始，更意味着一年中“藏”的阶段正式开启。草木凋零，动物蛰伏，万物活动趋向休止，为来年的生长积蓄力量。因此，这一节气的养生尤为重要，应该谨守一个“藏”字",
+      "published_at": "2026-11-07T07:58:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131264+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "今日立冬:秋色尽，安暖迎新冬-新闻中心-北方网 今日立冬：秋色尽，安暖迎新冬 来源： 津云 作者： 编辑：焦若玉 2026-11-07 07:58:59 今天，我们迎来冬季的第一个节气——立冬。立冬是二十四节气中第十九个节气，也是冬季的起始。《月令七十二候集解》中记载：“立，建始也；冬，终也，万物收藏也。”立冬不仅标志着冬季的开始，更意味着一年中“藏”的阶段正式开启。草木凋零，动物蛰伏，万物活动趋向休止，为来年的生长积蓄力量。因此，这一节气的养生尤为重要，应该谨守一个“藏”字",
+      "language": "zh",
+      "segments": [
+        "今日立冬:秋色尽，安暖迎新冬-新闻中心-北方网 今日立冬：秋色尽，安暖迎新冬 来源： 津云 作者： 编辑：焦若玉 2026-11-07 07:58:59 今天，我们迎来冬季的第一个节气——立冬。",
+        "立冬是二十四节气中第十九个节气，也是冬季的起始。",
+        "《月令七十二候集解》中记载：“立，建始也；",
+        "冬，终也，万物收藏也。",
+        "”立冬不仅标志着冬季的开始，更意味着一年中“藏”的阶段正式开启。",
+        "草木凋零，动物蛰伏，万物活动趋向休止，为来年的生长积蓄力量。",
+        "因此，这一节气的养生尤为重要，应该谨守一个“藏”字"
+      ],
+      "entities": [
+        {
+          "entity_id": "f56caa0e0be71a69",
+          "type": "date",
+          "value": "2026-11-07",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "2026-11-07"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "329f54a45cc6515f",
+          "type": "number",
+          "value": "07",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "07"
+        },
+        {
+          "entity_id": "f72d4aac24c53c4e",
+          "type": "number",
+          "value": "58",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "58"
+        },
+        {
+          "entity_id": "f772aedfd1499ccc",
+          "type": "number",
+          "value": "59 ",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "59 "
+        },
+        {
+          "entity_id": "265159180855137d",
+          "type": "named_topic",
+          "value": "月令七十二候集解",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "月令七十二候集解"
+        },
+        {
+          "entity_id": "3ba29fadb466b87c",
+          "type": "named_topic",
+          "value": "立，建始也；冬，终也，万物收藏也。",
+          "source_id": "ec2d1d3ec2257beb4f9e",
+          "evidence": "立，建始也；冬，终也，万物收藏也。"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 7,
+        "entity_count": 9,
+        "event_count": 0
+      },
+      "content_fingerprint": "511ef31ca6795ffe1f4cebaae96e2a182f25e574da22191119fa4b06da1a82db",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "826e726ecc7c6edd5fad",
+      "type": "news",
+      "title": "【杏林节气】立冬养生:细雨生寒未有霜，庭前木叶半青黄",
+      "url": "https://m.sohu.com/a/1098315078_121106832/",
+      "summary": "【杏林节气】立冬养生：细雨生寒未有霜，庭前木叶半青黄\n来源：九江市卫健委\n2026-11-07 07:30\n中国传统\n二十四节气\n11/07\n立冬，二十四节气中的第十九个节气，也是冬季的第一个节气，于每年公历11月7～8日交节，2026年立冬在11月7日17时51分。《月令七十二候集解》云：“冬，终也，万物收藏也。”“立”者建始，“冬”者终藏，意为冬季自此开始，万物收敛闭藏、规避寒冷。此时太阳到达黄经225°，日照渐短、寒气渐长，万物由“收”转入“藏”。立 \n本文作者：江南水乡生活见闻",
+      "published_at": "2026-11-07T07:30:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131330+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "【杏林节气】立冬养生:细雨生寒未有霜，庭前木叶半青黄 【杏林节气】立冬养生：细雨生寒未有霜，庭前木叶半青黄 来源：九江市卫健委 2026-11-07 07:30 中国传统 二十四节气 11/07 立冬，二十四节气中的第十九个节气，也是冬季的第一个节气，于每年公历11月7～8日交节，2026年立冬在11月7日17时51分。《月令七十二候集解》云：“冬，终也，万物收藏也。”“立”者建始，“冬”者终藏，意为冬季自此开始，万物收敛闭藏、规避寒冷。此时太阳到达黄经225°，日照渐短、寒气渐长，万物由“收”转入“藏”。立 本文作者：江南水乡生活见闻",
+      "language": "zh",
+      "segments": [
+        "【杏林节气】立冬养生:细雨生寒未有霜，庭前木叶半青黄 【杏林节气】立冬养生：细雨生寒未有霜，庭前木叶半青黄 来源：九江市卫健委 2026-11-07 07:30 中国传统 二十四节气 11/07 立冬，二十四节气中的第十九个节气，也是冬季的第一个节气，于每年公历11月7～8日交节，2026年立冬在11月7日17时51分。",
+        "《月令七十二候集解》云：“冬，终也，万物收藏也。",
+        "”“立”者建始，“冬”者终藏，意为冬季自此开始，万物收敛闭藏、规避寒冷。",
+        "此时太阳到达黄经225°，日照渐短、寒气渐长，万物由“收”转入“藏”。",
+        "立 本文作者：江南水乡生活见闻"
+      ],
+      "entities": [
+        {
+          "entity_id": "f56caa0e0be71a69",
+          "type": "date",
+          "value": "2026-11-07",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "2026-11-07"
+        },
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "4551861f8972e2e6",
+          "type": "date",
+          "value": "11月7日",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "11月7日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "329f54a45cc6515f",
+          "type": "number",
+          "value": "07",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "07"
+        },
+        {
+          "entity_id": "e922d575d950c6a8",
+          "type": "number",
+          "value": "30 ",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "30 "
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "570bbde4184aa9e8",
+          "type": "number",
+          "value": "8",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "8"
+        },
+        {
+          "entity_id": "dfcde5aebb9fff47",
+          "type": "number",
+          "value": "17",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "17"
+        },
+        {
+          "entity_id": "4743252f29e1ebc1",
+          "type": "number",
+          "value": "51",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "51"
+        },
+        {
+          "entity_id": "edabd543b41ca275",
+          "type": "number",
+          "value": "225",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "225"
+        },
+        {
+          "entity_id": "265159180855137d",
+          "type": "named_topic",
+          "value": "月令七十二候集解",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "月令七十二候集解"
+        },
+        {
+          "entity_id": "841df49312a10335",
+          "type": "named_topic",
+          "value": "冬，终也，万物收藏也。",
+          "source_id": "826e726ecc7c6edd5fad",
+          "evidence": "冬，终也，万物收藏也。"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 15,
+        "event_count": 0
+      },
+      "content_fingerprint": "2c464042aefd592f5f9e46ec6296e97244e8d96b9f183d4ad174d49a0960db32",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "0e4da3bdfb78b42f9c1d",
+      "type": "news",
+      "title": "立冬节气|冬始凝寒，万物安藏_推荐_大众网",
+      "url": "http://www.dzwww.com/news/yw/202611/t20261107_18279645.htm",
+      "summary": "立冬节气｜冬始凝寒，万物安藏\n2026 / 11/07 07:27 来源： 海报新闻  作者： 石榴花开\n水始冰，地始冻，寒声初起。11月7日，立冬如期而至。“立”为起始，冬主闭藏。自此步入凝霜藏静、蓄养待发的冬日序章。\n立冬有三候，四时流转，藏着冬日独有的沉静和节律。一候水始冰，气温渐低，静水凝结薄冰，寒意悄然漫开；二候地始冻，土层散尽余温，泥土封冻，收贮一整年的地气；三候雉入大水为蜃，飞鸟渐隐，近海蜃蚌渐现，藏着古人对物候更替的浪",
+      "published_at": "2026-11-07T07:27:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131216+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "立冬节气|冬始凝寒，万物安藏_推荐_大众网 立冬节气｜冬始凝寒，万物安藏 2026 / 11/07 07:27 来源： 海报新闻 作者： 石榴花开 水始冰，地始冻，寒声初起。11月7日，立冬如期而至。“立”为起始，冬主闭藏。自此步入凝霜藏静、蓄养待发的冬日序章。 立冬有三候，四时流转，藏着冬日独有的沉静和节律。一候水始冰，气温渐低，静水凝结薄冰，寒意悄然漫开；二候地始冻，土层散尽余温，泥土封冻，收贮一整年的地气；三候雉入大水为蜃，飞鸟渐隐，近海蜃蚌渐现，藏着古人对物候更替的浪",
+      "language": "zh",
+      "segments": [
+        "立冬节气|冬始凝寒，万物安藏_推荐_大众网 立冬节气｜冬始凝寒，万物安藏 2026 / 11/07 07:27 来源： 海报新闻 作者： 石榴花开 水始冰，地始冻，寒声初起。",
+        "11月7日，立冬如期而至。",
+        "“立”为起始，冬主闭藏。",
+        "自此步入凝霜藏静、蓄养待发的冬日序章。",
+        "立冬有三候，四时流转，藏着冬日独有的沉静和节律。",
+        "一候水始冰，气温渐低，静水凝结薄冰，寒意悄然漫开；",
+        "二候地始冻，土层散尽余温，泥土封冻，收贮一整年的地气；",
+        "三候雉入大水为蜃，飞鸟渐隐，近海蜃蚌渐现，藏着古人对物候更替的浪"
+      ],
+      "entities": [
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "4551861f8972e2e6",
+          "type": "date",
+          "value": "11月7日",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "11月7日"
+        },
+        {
+          "entity_id": "48bcff230a053130",
+          "type": "number",
+          "value": "2026 ",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "2026 "
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "329f54a45cc6515f",
+          "type": "number",
+          "value": "07",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "07"
+        },
+        {
+          "entity_id": "8856e77f643a742c",
+          "type": "number",
+          "value": "27 ",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "27 "
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "0e4da3bdfb78b42f9c1d",
+          "evidence": "7"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 8,
+        "entity_count": 8,
+        "event_count": 0
+      },
+      "content_fingerprint": "ed3d2ba1417070994e8510603d7dd08cd13fba5db28dac3d5c5a22c3ea988898",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "a20d54bd664c52e41a01",
+      "type": "news",
+      "title": "立冬节气有哪些习俗 老讲究藏风味_中华网",
+      "url": "https://3g.china.com/act/news/10000169/20261107/49849441.html",
+      "summary": "立冬节气有哪些习俗 老讲究藏风味\n读书文史  2026-11-07 11:12:19\n立冬时气温逐渐走低，草木收敛生机，万物进入收藏状态。古人根据物候变化衍生出不少习俗。\n绍兴人讲究立冬酿黄酒，也叫冬酿。从立冬到立春，这段时间水温低、水质干净，杂菌少，低温发酵使酒香更醇厚。这是顺应气候的老手艺。\n秋冬季节，许多传统家庭会腌制蔬菜和肉类。过去冬天寒冷，食物减少且运输不便，人们通过腌制来储备食物，以度过寒冬。\n立冬后气温下降，适当进补能",
+      "published_at": "2026-11-07T00:00:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131194+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "立冬节气有哪些习俗 老讲究藏风味_中华网 立冬节气有哪些习俗 老讲究藏风味 读书文史 2026-11-07 11:12:19 立冬时气温逐渐走低，草木收敛生机，万物进入收藏状态。古人根据物候变化衍生出不少习俗。 绍兴人讲究立冬酿黄酒，也叫冬酿。从立冬到立春，这段时间水温低、水质干净，杂菌少，低温发酵使酒香更醇厚。这是顺应气候的老手艺。 秋冬季节，许多传统家庭会腌制蔬菜和肉类。过去冬天寒冷，食物减少且运输不便，人们通过腌制来储备食物，以度过寒冬。 立冬后气温下降，适当进补能",
+      "language": "zh",
+      "segments": [
+        "立冬节气有哪些习俗 老讲究藏风味_中华网 立冬节气有哪些习俗 老讲究藏风味 读书文史 2026-11-07 11:12:19 立冬时气温逐渐走低，草木收敛生机，万物进入收藏状态。",
+        "古人根据物候变化衍生出不少习俗。",
+        "绍兴人讲究立冬酿黄酒，也叫冬酿。",
+        "从立冬到立春，这段时间水温低、水质干净，杂菌少，低温发酵使酒香更醇厚。",
+        "这是顺应气候的老手艺。",
+        "秋冬季节，许多传统家庭会腌制蔬菜和肉类。",
+        "过去冬天寒冷，食物减少且运输不便，人们通过腌制来储备食物，以度过寒冬。",
+        "立冬后气温下降，适当进补能"
+      ],
+      "entities": [
+        {
+          "entity_id": "f56caa0e0be71a69",
+          "type": "date",
+          "value": "2026-11-07",
+          "source_id": "a20d54bd664c52e41a01",
+          "evidence": "2026-11-07"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "a20d54bd664c52e41a01",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "a20d54bd664c52e41a01",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "a20d54bd664c52e41a01",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "fcef0ee2bcead433",
+          "type": "number",
+          "value": "12",
+          "source_id": "a20d54bd664c52e41a01",
+          "evidence": "12"
+        },
+        {
+          "entity_id": "c230c01ed749231e",
+          "type": "number",
+          "value": "19 ",
+          "source_id": "a20d54bd664c52e41a01",
+          "evidence": "19 "
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 8,
+        "entity_count": 6,
+        "event_count": 0
+      },
+      "content_fingerprint": "5530065cba9dccbeacc949d28add9bf3f0b7fe11847be83db3ac1e0717463fa2",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "411ea42c2e9a92a1a048",
+      "type": "news",
+      "title": "这就，立冬啦?!_山西网络广播电视台",
+      "url": "https://www.sxrtv.com/webs/hotnews/content_267770.shtml",
+      "summary": "这就，立冬啦？！\n2026年11月07日\n太阳到达黄经225度\n二十四节气中的第十九个节气\n立冬悄然而至\n这是冬季的第一个节气\n“冬，终也，万物收藏也。”\n立冬，意味着冬季正式来临\n此时我国南北差异很大\n有的地方已经大雪纷飞，土地封冻\n有的地方还带着“十月小阳春”的余温\n正处于向冬天过渡的阶段\n11月5日在北京故宫西华门附近拍摄的景色。新华社记者 罗晓光 摄\n古时，立冬不仅是节气\n还是一个重要节日\n各地至今仍保留着\n丰富多彩的传统习俗\n民间",
+      "published_at": "2026-11-07T00:00:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131249+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "这就，立冬啦?!_山西网络广播电视台 这就，立冬啦？！ 2026年11月07日 太阳到达黄经225度 二十四节气中的第十九个节气 立冬悄然而至 这是冬季的第一个节气 “冬，终也，万物收藏也。” 立冬，意味着冬季正式来临 此时我国南北差异很大 有的地方已经大雪纷飞，土地封冻 有的地方还带着“十月小阳春”的余温 正处于向冬天过渡的阶段 11月5日在北京故宫西华门附近拍摄的景色。新华社记者 罗晓光 摄 古时，立冬不仅是节气 还是一个重要节日 各地至今仍保留着 丰富多彩的传统习俗 民间",
+      "language": "zh",
+      "segments": [
+        "这就，立冬啦?",
+        "!",
+        "_山西网络广播电视台 这就，立冬啦？",
+        "！",
+        "2026年11月07日 太阳到达黄经225度 二十四节气中的第十九个节气 立冬悄然而至 这是冬季的第一个节气 “冬，终也，万物收藏也。",
+        "” 立冬，意味着冬季正式来临 此时我国南北差异很大 有的地方已经大雪纷飞，土地封冻 有的地方还带着“十月小阳春”的余温 正处于向冬天过渡的阶段 11月5日在北京故宫西华门附近拍摄的景色。",
+        "新华社记者 罗晓光 摄 古时，立冬不仅是节气 还是一个重要节日 各地至今仍保留着 丰富多彩的传统习俗 民间"
+      ],
+      "entities": [
+        {
+          "entity_id": "4d0112e6d21d4d46",
+          "type": "date",
+          "value": "2026年11月07日",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "2026年11月07日"
+        },
+        {
+          "entity_id": "5516fd5183d7ef51",
+          "type": "date",
+          "value": "11月5日",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "11月5日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "329f54a45cc6515f",
+          "type": "number",
+          "value": "07",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "07"
+        },
+        {
+          "entity_id": "edabd543b41ca275",
+          "type": "number",
+          "value": "225",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "225"
+        },
+        {
+          "entity_id": "858e07ddc6529dd8",
+          "type": "number",
+          "value": "5",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "5"
+        },
+        {
+          "entity_id": "841df49312a10335",
+          "type": "named_topic",
+          "value": "冬，终也，万物收藏也。",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "冬，终也，万物收藏也。"
+        },
+        {
+          "entity_id": "a4bddfaeb1f6d061",
+          "type": "named_topic",
+          "value": "十月小阳春",
+          "source_id": "411ea42c2e9a92a1a048",
+          "evidence": "十月小阳春"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 7,
+        "entity_count": 9,
+        "event_count": 0
+      },
+      "content_fingerprint": "8186863548938bbe156b736b870e0228098b874fcc604e40bc2e7c605eb55079",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "9ce9f0b985ece7baf59d",
+      "type": "news",
+      "title": "文化中国行|听·立冬_光明网",
+      "url": "https://politics.gmw.cn/2026-11/07/content_39090087.htm",
+      "summary": "文化中国行｜听·立冬\n来源：中国之声\n2026-11-07 13:14\n立冬\n是二十四节气中第十九个节气\n此时水始成冰，寒意渐深\n草木凋零，蛰虫伏藏\n万物于寒意中蓄养来年的生机\n中国之声\n邀您通过三维菁彩声\n在山河盛景中\n聆听古韵新声\n立冬启寒凉，围炉煮暖香\n一件汉代的分格鼎\n与立冬的进补\n有着怎样的渊源？\n一起走进南京博物院\n听\n五味藏暖\n中国之声为您准备了\n“云”赏立冬\n一起感受立冬的勃勃生机\n立冬雪至，寒气渐浓。\n白雪覆地彩叶留枝，\n动静相宜，",
+      "published_at": "2026-11-07T00:00:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131314+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "文化中国行|听·立冬_光明网 文化中国行｜听·立冬 来源：中国之声 2026-11-07 13:14 立冬 是二十四节气中第十九个节气 此时水始成冰，寒意渐深 草木凋零，蛰虫伏藏 万物于寒意中蓄养来年的生机 中国之声 邀您通过三维菁彩声 在山河盛景中 聆听古韵新声 立冬启寒凉，围炉煮暖香 一件汉代的分格鼎 与立冬的进补 有着怎样的渊源？ 一起走进南京博物院 听 五味藏暖 中国之声为您准备了 “云”赏立冬 一起感受立冬的勃勃生机 立冬雪至，寒气渐浓。 白雪覆地彩叶留枝， 动静相宜，",
+      "language": "zh",
+      "segments": [
+        "文化中国行|听·立冬_光明网 文化中国行｜听·立冬 来源：中国之声 2026-11-07 13:14 立冬 是二十四节气中第十九个节气 此时水始成冰，寒意渐深 草木凋零，蛰虫伏藏 万物于寒意中蓄养来年的生机 中国之声 邀您通过三维菁彩声 在山河盛景中 聆听古韵新声 立冬启寒凉，围炉煮暖香 一件汉代的分格鼎 与立冬的进补 有着怎样的渊源？",
+        "一起走进南京博物院 听 五味藏暖 中国之声为您准备了 “云”赏立冬 一起感受立冬的勃勃生机 立冬雪至，寒气渐浓。",
+        "白雪覆地彩叶留枝， 动静相宜，"
+      ],
+      "entities": [
+        {
+          "entity_id": "f56caa0e0be71a69",
+          "type": "date",
+          "value": "2026-11-07",
+          "source_id": "9ce9f0b985ece7baf59d",
+          "evidence": "2026-11-07"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "9ce9f0b985ece7baf59d",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "9ce9f0b985ece7baf59d",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "9ce9f0b985ece7baf59d",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "f46919ba9b0b2509",
+          "type": "number",
+          "value": "13",
+          "source_id": "9ce9f0b985ece7baf59d",
+          "evidence": "13"
+        },
+        {
+          "entity_id": "7613bf4738111fa0",
+          "type": "number",
+          "value": "14 ",
+          "source_id": "9ce9f0b985ece7baf59d",
+          "evidence": "14 "
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 3,
+        "entity_count": 6,
+        "event_count": 0
+      },
+      "content_fingerprint": "48433aa1c873b4c132acea58c662bc5adaecccc6b9d68bcf2d10aab98f300d7c",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "774a4ae04743f8ef0d62",
+      "type": "news",
+      "title": "文化中国行丨“声动”二十四节气·立冬-新华网",
+      "url": "http://www.xinhuanet.com/20261106/f363bef1bb7c439285d38ad6af79c2fe/c.html",
+      "summary": "2026 11/06 15:52:11\n来源：新华社\n文化中国行丨“声动”二十四节气·立冬\n文化中国行丨“声动”二十四节气·立冬\n2026-11-06 15:52:11  来源：新华社\n太阳到达黄经225度\n二十四节气中的第十九个节气\n立冬悄然而至\n这是冬季的第一个节气\n11月5日，市民在银川市中山公园落叶创意造景区游玩、拍照。新华社记者 杨植森 摄\n“冬，终也，万物收藏也。”立冬，意味着冬季正式来临。\n绍兴越文化研究会会长徐智麟说，立冬标志着冬季的开始。这个时候我国南北差异",
+      "published_at": "2026-11-06T15:52:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131233+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "文化中国行丨“声动”二十四节气·立冬-新华网 2026 11/06 15:52:11 来源：新华社 文化中国行丨“声动”二十四节气·立冬 文化中国行丨“声动”二十四节气·立冬 2026-11-06 15:52:11 来源：新华社 太阳到达黄经225度 二十四节气中的第十九个节气 立冬悄然而至 这是冬季的第一个节气 11月5日，市民在银川市中山公园落叶创意造景区游玩、拍照。新华社记者 杨植森 摄 “冬，终也，万物收藏也。”立冬，意味着冬季正式来临。 绍兴越文化研究会会长徐智麟说，立冬标志着冬季的开始。这个时候我国南北差异",
+      "language": "zh",
+      "segments": [
+        "文化中国行丨“声动”二十四节气·立冬-新华网 2026 11/06 15:52:11 来源：新华社 文化中国行丨“声动”二十四节气·立冬 文化中国行丨“声动”二十四节气·立冬 2026-11-06 15:52:11 来源：新华社 太阳到达黄经225度 二十四节气中的第十九个节气 立冬悄然而至 这是冬季的第一个节气 11月5日，市民在银川市中山公园落叶创意造景区游玩、拍照。",
+        "新华社记者 杨植森 摄 “冬，终也，万物收藏也。",
+        "”立冬，意味着冬季正式来临。",
+        "绍兴越文化研究会会长徐智麟说，立冬标志着冬季的开始。",
+        "这个时候我国南北差异"
+      ],
+      "entities": [
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "c10c9d8e3b026495",
+          "type": "date",
+          "value": "2026-11-06",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "2026-11-06"
+        },
+        {
+          "entity_id": "5516fd5183d7ef51",
+          "type": "date",
+          "value": "11月5日",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "11月5日"
+        },
+        {
+          "entity_id": "48bcff230a053130",
+          "type": "number",
+          "value": "2026 ",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "2026 "
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "4c96dcb741340cb1",
+          "type": "number",
+          "value": "06 ",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "06 "
+        },
+        {
+          "entity_id": "cdca42a13f630c42",
+          "type": "number",
+          "value": "15",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "15"
+        },
+        {
+          "entity_id": "f386334a2b319953",
+          "type": "number",
+          "value": "52",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "52"
+        },
+        {
+          "entity_id": "34d67b1140a51b22",
+          "type": "number",
+          "value": "11 ",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "11 "
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "edabd543b41ca275",
+          "type": "number",
+          "value": "225",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "225"
+        },
+        {
+          "entity_id": "858e07ddc6529dd8",
+          "type": "number",
+          "value": "5",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "5"
+        },
+        {
+          "entity_id": "8e2f277d2ff43439",
+          "type": "named_topic",
+          "value": "声动",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "声动"
+        },
+        {
+          "entity_id": "841df49312a10335",
+          "type": "named_topic",
+          "value": "冬，终也，万物收藏也。",
+          "source_id": "774a4ae04743f8ef0d62",
+          "evidence": "冬，终也，万物收藏也。"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 14,
+        "event_count": 0
+      },
+      "content_fingerprint": "06709a6026bd2d989d341cc36654cd2043aa902d0919e55e9d0e9afd2a24c637",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "f0e30e48d285692bc9bd",
+      "type": "news",
+      "title": "立冬",
+      "url": "https://wgl.zhenjiang.gov.cn/wgl/bwgxwdt/202608/1a691d6e0ef04f31ad9efd0f261dee75.shtml",
+      "summary": "立冬\n【立冬】立冬节气在每年的11月7日或8日，我国古时民间习惯以立冬为冬季的开始，《月令七十二候集解》载：“立，建始也”，又说：“冬，终也，万物收藏也。”立冬与立春、立夏、立秋合称四立，在古代社会中是个重要的节日。立冬有补冬、吃饺子、祭祖等习俗。立冬前后，我国大部分地区降水显著减少。东北地区大地封冻，农林作物进入越冬期；江淮地区“三秋”已接近尾声；江南正忙着抢种晚茬冬麦，抓紧移栽油菜；华南则是“立冬种",
+      "published_at": "2026-08-10T17:53:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131279+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "立冬 立冬 【立冬】立冬节气在每年的11月7日或8日，我国古时民间习惯以立冬为冬季的开始，《月令七十二候集解》载：“立，建始也”，又说：“冬，终也，万物收藏也。”立冬与立春、立夏、立秋合称四立，在古代社会中是个重要的节日。立冬有补冬、吃饺子、祭祖等习俗。立冬前后，我国大部分地区降水显著减少。东北地区大地封冻，农林作物进入越冬期；江淮地区“三秋”已接近尾声；江南正忙着抢种晚茬冬麦，抓紧移栽油菜；华南则是“立冬种",
+      "language": "zh",
+      "segments": [
+        "立冬 立冬 【立冬】立冬节气在每年的11月7日或8日，我国古时民间习惯以立冬为冬季的开始，《月令七十二候集解》载：“立，建始也”，又说：“冬，终也，万物收藏也。",
+        "”立冬与立春、立夏、立秋合称四立，在古代社会中是个重要的节日。",
+        "立冬有补冬、吃饺子、祭祖等习俗。",
+        "立冬前后，我国大部分地区降水显著减少。",
+        "东北地区大地封冻，农林作物进入越冬期；",
+        "江淮地区“三秋”已接近尾声；",
+        "江南正忙着抢种晚茬冬麦，抓紧移栽油菜；",
+        "华南则是“立冬种"
+      ],
+      "entities": [
+        {
+          "entity_id": "4551861f8972e2e6",
+          "type": "date",
+          "value": "11月7日",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "11月7日"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "570bbde4184aa9e8",
+          "type": "number",
+          "value": "8",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "8"
+        },
+        {
+          "entity_id": "265159180855137d",
+          "type": "named_topic",
+          "value": "月令七十二候集解",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "月令七十二候集解"
+        },
+        {
+          "entity_id": "4e94235e2340d50d",
+          "type": "named_topic",
+          "value": "立，建始也",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "立，建始也"
+        },
+        {
+          "entity_id": "841df49312a10335",
+          "type": "named_topic",
+          "value": "冬，终也，万物收藏也。",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "冬，终也，万物收藏也。"
+        },
+        {
+          "entity_id": "0dc81560c7dab296",
+          "type": "named_topic",
+          "value": "三秋",
+          "source_id": "f0e30e48d285692bc9bd",
+          "evidence": "三秋"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 8,
+        "entity_count": 8,
+        "event_count": 0
+      },
+      "content_fingerprint": "510ceb49d9c259447a5bc52bb43028c8d94be6d8620bebe8c493a73473a12dea",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "a360cb6c6c0517c0973b",
+      "type": "news",
+      "title": "立冬 _ 百科",
+      "url": "https://baike.sogou.com/v519278.htm",
+      "summary": "立冬是农历二十四节气之一，也是中国传统节日之一，公历每年11月7-8日之间交节，此时太阳黄经达225°，斗柄指向西北方位，意味着冬季开始，生气闭蓄，万物进入休养收藏状态，气候由秋季少雨干燥向阴雨寒冻的冬季气候转变。立冬后日照时间将继续缩短，正午太阳高度继续降低，冬季普通盛行东北风和北风，气温逐渐下降，初冬时期因地表贮存的热量还有一定能量，一般还不是很冷，之后强冷空气南下频繁并越过南岭，天气越来越冷，北方地区",
+      "published_at": "2026-06-11T09:45:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131293+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "立冬 _ 百科 立冬是农历二十四节气之一，也是中国传统节日之一，公历每年11月7-8日之间交节，此时太阳黄经达225°，斗柄指向西北方位，意味着冬季开始，生气闭蓄，万物进入休养收藏状态，气候由秋季少雨干燥向阴雨寒冻的冬季气候转变。立冬后日照时间将继续缩短，正午太阳高度继续降低，冬季普通盛行东北风和北风，气温逐渐下降，初冬时期因地表贮存的热量还有一定能量，一般还不是很冷，之后强冷空气南下频繁并越过南岭，天气越来越冷，北方地区",
+      "language": "zh",
+      "segments": [
+        "立冬 _ 百科 立冬是农历二十四节气之一，也是中国传统节日之一，公历每年11月7-8日之间交节，此时太阳黄经达225°，斗柄指向西北方位，意味着冬季开始，生气闭蓄，万物进入休养收藏状态，气候由秋季少雨干燥向阴雨寒冻的冬季气候转变。",
+        "立冬后日照时间将继续缩短，正午太阳高度继续降低，冬季普通盛行东北风和北风，气温逐渐下降，初冬时期因地表贮存的热量还有一定能量，一般还不是很冷，之后强冷空气南下频繁并越过南岭，天气越来越冷，北方地区"
+      ],
+      "entities": [
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "a360cb6c6c0517c0973b",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "a360cb6c6c0517c0973b",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "570bbde4184aa9e8",
+          "type": "number",
+          "value": "8",
+          "source_id": "a360cb6c6c0517c0973b",
+          "evidence": "8"
+        },
+        {
+          "entity_id": "edabd543b41ca275",
+          "type": "number",
+          "value": "225",
+          "source_id": "a360cb6c6c0517c0973b",
+          "evidence": "225"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 2,
+        "entity_count": 4,
+        "event_count": 0
+      },
+      "content_fingerprint": "78a4d76145378858664dd8e0d44eb01430196edffa1864ae5f25ee71bbfd676f",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "a9721ea91cf15260222b",
+      "type": "news",
+      "title": "立冬养生:衣食住行有讲究_气象科普_ 浙江气象局外网门户",
+      "url": "http://zj.cma.gov.cn/qxkp/202511/t20251121_7456853.html",
+      "summary": "立冬节气养生需从衣食住行四方面调整：穿衣以保暖为基本准则，重点保护头、颈、脚部位，可采用内层速干衣、中层保暖衣或抓绒衣、外层冲锋衣或羽绒服的三层穿衣法。饮食应以温补驱寒、增强抵抗力为主，适量摄入优质蛋白质、维生素A、维生素C及根茎类食物，同时可搭配冬瓜、百合、银耳等清热降火食材，日常勤补水。起居应顺应昼短夜长的自然规律，尽量早睡晚起，建议22点前入睡、太阳升起后起床，白天午休以30分钟以内为宜，北方干燥卧",
+      "published_at": "2025-11-21T14:46:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131417+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "立冬养生:衣食住行有讲究_气象科普_ 浙江气象局外网门户 立冬节气养生需从衣食住行四方面调整：穿衣以保暖为基本准则，重点保护头、颈、脚部位，可采用内层速干衣、中层保暖衣或抓绒衣、外层冲锋衣或羽绒服的三层穿衣法。饮食应以温补驱寒、增强抵抗力为主，适量摄入优质蛋白质、维生素A、维生素C及根茎类食物，同时可搭配冬瓜、百合、银耳等清热降火食材，日常勤补水。起居应顺应昼短夜长的自然规律，尽量早睡晚起，建议22点前入睡、太阳升起后起床，白天午休以30分钟以内为宜，北方干燥卧",
+      "language": "zh-en",
+      "segments": [
+        "立冬养生:衣食住行有讲究_气象科普_ 浙江气象局外网门户 立冬节气养生需从衣食住行四方面调整：穿衣以保暖为基本准则，重点保护头、颈、脚部位，可采用内层速干衣、中层保暖衣或抓绒衣、外层冲锋衣或羽绒服的三层穿衣法。",
+        "饮食应以温补驱寒、增强抵抗力为主，适量摄入优质蛋白质、维生素A、维生素C及根茎类食物，同时可搭配冬瓜、百合、银耳等清热降火食材，日常勤补水。",
+        "起居应顺应昼短夜长的自然规律，尽量早睡晚起，建议22点前入睡、太阳升起后起床，白天午休以30分钟以内为宜，北方干燥卧"
+      ],
+      "entities": [
+        {
+          "entity_id": "f6c7b34344564662",
+          "type": "number",
+          "value": "22",
+          "source_id": "a9721ea91cf15260222b",
+          "evidence": "22"
+        },
+        {
+          "entity_id": "8298c483625bf876",
+          "type": "number",
+          "value": "30",
+          "source_id": "a9721ea91cf15260222b",
+          "evidence": "30"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 3,
+        "entity_count": 2,
+        "event_count": 0
+      },
+      "content_fingerprint": "32bb2676e922e6a409975d1afb52c76ae4abb972cccd2f5f23a9c58a8755243b",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "c9bb0ebb19e22b8621e2",
+      "type": "news",
+      "title": "【节气养生】立冬养藏，暖身护阳",
+      "url": "http://www.qihe.gov.cn/n30552226/n74410737/n74412692/n74417674/n74417977/n74417979/c96936626/content.html",
+      "summary": "立冬节气的中医养生方法涵盖起居、饮食、情志、运动及中医特色疗法等方面。起居应早卧晚起、不熬夜，重点做好头部、颈部、腰部、足部的保暖，睡前可用热水泡脚改善血液循环、助眠；饮食以滋养脏腑、温补阳气为核心，忌食生冷寒凉食物，可多吃羊肉、牛肉、鸡肉等温补食材，搭配萝卜、白菜等顺气消食蔬菜，还可食用山药、栗子、核桃、黑芝麻健脾补肾，经典药膳为当归生姜羊肉汤；情志方面可通过晒太阳、读书、听音乐等静逸活动放松身",
+      "published_at": "2025-11-12T00:00:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131403+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "【节气养生】立冬养藏，暖身护阳 立冬节气的中医养生方法涵盖起居、饮食、情志、运动及中医特色疗法等方面。起居应早卧晚起、不熬夜，重点做好头部、颈部、腰部、足部的保暖，睡前可用热水泡脚改善血液循环、助眠；饮食以滋养脏腑、温补阳气为核心，忌食生冷寒凉食物，可多吃羊肉、牛肉、鸡肉等温补食材，搭配萝卜、白菜等顺气消食蔬菜，还可食用山药、栗子、核桃、黑芝麻健脾补肾，经典药膳为当归生姜羊肉汤；情志方面可通过晒太阳、读书、听音乐等静逸活动放松身",
+      "language": "zh",
+      "segments": [
+        "【节气养生】立冬养藏，暖身护阳 立冬节气的中医养生方法涵盖起居、饮食、情志、运动及中医特色疗法等方面。",
+        "起居应早卧晚起、不熬夜，重点做好头部、颈部、腰部、足部的保暖，睡前可用热水泡脚改善血液循环、助眠；",
+        "饮食以滋养脏腑、温补阳气为核心，忌食生冷寒凉食物，可多吃羊肉、牛肉、鸡肉等温补食材，搭配萝卜、白菜等顺气消食蔬菜，还可食用山药、栗子、核桃、黑芝麻健脾补肾，经典药膳为当归生姜羊肉汤；",
+        "情志方面可通过晒太阳、读书、听音乐等静逸活动放松身"
+      ],
+      "entities": [],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 0,
+        "event_count": 0
+      },
+      "content_fingerprint": "eab450b24085f8c8445c2ce451d2b871f535640ab7e2dc77ea4c230a7487aa9e",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "0ab45298150f9dd56fa3",
+      "type": "news",
+      "title": "立冬养生：藏好阳气，为健康过冬打基础",
+      "url": "http://www.qdsn.gov.cn/ztzl_8/ggqsydwxxgk_81/ylwsly_213667/jcylwsjg/qdssnqbdxjdgyxlsqwsfwzx/kpjj/jkkp/202511/t20251111_10361818.shtml",
+      "summary": "立冬节气养生核心在于“藏”，需从饮食、起居、运动、情绪多方面循序渐进调理。饮食遵循“温补不燥”原则，可适当摄入羊肉、牛肉、桂圆、红枣等温热食材，搭配白萝卜、银耳、梨等润燥食材，减少生冷、辛辣食物摄入。起居要做到“早卧晚起，必待日光”，及时增添衣物，重点做好颈部、腰部、脚部保暖。运动需“适度内敛”，选择散步、慢跑、太极拳、八段锦等温和方式，运动时间选在上午10点后或下午3点左右，运动后及时擦干汗水更换衣",
+      "published_at": "2025-11-11T08:38:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131431+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "立冬养生：藏好阳气，为健康过冬打基础 立冬节气养生核心在于“藏”，需从饮食、起居、运动、情绪多方面循序渐进调理。饮食遵循“温补不燥”原则，可适当摄入羊肉、牛肉、桂圆、红枣等温热食材，搭配白萝卜、银耳、梨等润燥食材，减少生冷、辛辣食物摄入。起居要做到“早卧晚起，必待日光”，及时增添衣物，重点做好颈部、腰部、脚部保暖。运动需“适度内敛”，选择散步、慢跑、太极拳、八段锦等温和方式，运动时间选在上午10点后或下午3点左右，运动后及时擦干汗水更换衣",
+      "language": "zh",
+      "segments": [
+        "立冬养生：藏好阳气，为健康过冬打基础 立冬节气养生核心在于“藏”，需从饮食、起居、运动、情绪多方面循序渐进调理。",
+        "饮食遵循“温补不燥”原则，可适当摄入羊肉、牛肉、桂圆、红枣等温热食材，搭配白萝卜、银耳、梨等润燥食材，减少生冷、辛辣食物摄入。",
+        "起居要做到“早卧晚起，必待日光”，及时增添衣物，重点做好颈部、腰部、脚部保暖。",
+        "运动需“适度内敛”，选择散步、慢跑、太极拳、八段锦等温和方式，运动时间选在上午10点后或下午3点左右，运动后及时擦干汗水更换衣"
+      ],
+      "entities": [
+        {
+          "entity_id": "8c8426667a2ed673",
+          "type": "number",
+          "value": "10",
+          "source_id": "0ab45298150f9dd56fa3",
+          "evidence": "10"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "0ab45298150f9dd56fa3",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "c35b7f50287f810e",
+          "type": "named_topic",
+          "value": "温补不燥",
+          "source_id": "0ab45298150f9dd56fa3",
+          "evidence": "温补不燥"
+        },
+        {
+          "entity_id": "68108260c5ab509e",
+          "type": "named_topic",
+          "value": "早卧晚起，必待日光",
+          "source_id": "0ab45298150f9dd56fa3",
+          "evidence": "早卧晚起，必待日光"
+        },
+        {
+          "entity_id": "a8594ad34ecda8dd",
+          "type": "named_topic",
+          "value": "适度内敛",
+          "source_id": "0ab45298150f9dd56fa3",
+          "evidence": "适度内敛"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 5,
+        "event_count": 0
+      },
+      "content_fingerprint": "8f30f25d005a1908e5e3f9fc41be4e1f7548e366f06effd5a905651d2a6a7271",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "ab0eba334be182057148",
+      "type": "news",
+      "title": "中国节气|立冬",
+      "url": "https://nmgqq.com.cn/quqinggailan/neimengguyinxiang/minsufengqing/2025-11-11/432125.html",
+      "summary": "中国节气｜立冬\n发布时间：2025-11-07 【字体： 小 中 大】\n立冬节气，时间在每年11月7—8日。此时节，万物生长节奏放缓，进入休养蓄力阶段。昔日的姹紫嫣红渐渐褪去，广袤大地在时序轮转中渐归沉静，处处显现出冬日的静谧。\n立冬三候\n1762827110608641.png\n一候 水始冰\n立冬之日起，天地愈渐寒冷，水面开始逐渐凝结成冰。\n二候 地始冻\n此时，寒气愈冽，冷风侵袭，薄霜初现，土地开始冻结。\n三候 雉入大水为蜃\n“雉”指野鸡一类的大鸟，“蜃”为大蛤",
+      "published_at": "2025-11-11T00:00:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131374+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "中国节气|立冬 中国节气｜立冬 发布时间：2025-11-07 【字体： 小 中 大】 立冬节气，时间在每年11月7—8日。此时节，万物生长节奏放缓，进入休养蓄力阶段。昔日的姹紫嫣红渐渐褪去，广袤大地在时序轮转中渐归沉静，处处显现出冬日的静谧。 立冬三候 1762827110608641.png 一候 水始冰 立冬之日起，天地愈渐寒冷，水面开始逐渐凝结成冰。 二候 地始冻 此时，寒气愈冽，冷风侵袭，薄霜初现，土地开始冻结。 三候 雉入大水为蜃 “雉”指野鸡一类的大鸟，“蜃”为大蛤",
+      "language": "zh-en",
+      "segments": [
+        "中国节气|立冬 中国节气｜立冬 发布时间：2025-11-07 【字体： 小 中 大】 立冬节气，时间在每年11月7—8日。",
+        "此时节，万物生长节奏放缓，进入休养蓄力阶段。",
+        "昔日的姹紫嫣红渐渐褪去，广袤大地在时序轮转中渐归沉静，处处显现出冬日的静谧。",
+        "立冬三候 1762827110608641.png 一候 水始冰 立冬之日起，天地愈渐寒冷，水面开始逐渐凝结成冰。",
+        "二候 地始冻 此时，寒气愈冽，冷风侵袭，薄霜初现，土地开始冻结。",
+        "三候 雉入大水为蜃 “雉”指野鸡一类的大鸟，“蜃”为大蛤"
+      ],
+      "entities": [
+        {
+          "entity_id": "241637bde1f67641",
+          "type": "date",
+          "value": "2025-11-07",
+          "source_id": "ab0eba334be182057148",
+          "evidence": "2025-11-07"
+        },
+        {
+          "entity_id": "b10411b2662a173b",
+          "type": "number",
+          "value": "2025",
+          "source_id": "ab0eba334be182057148",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "ab0eba334be182057148",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "ab0eba334be182057148",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "ab0eba334be182057148",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "570bbde4184aa9e8",
+          "type": "number",
+          "value": "8",
+          "source_id": "ab0eba334be182057148",
+          "evidence": "8"
+        },
+        {
+          "entity_id": "25f30cee5dcfd0f5",
+          "type": "number",
+          "value": "1762827110608641",
+          "source_id": "ab0eba334be182057148",
+          "evidence": "1762827110608641"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "dd6a307826859611",
+          "trigger": "发布",
+          "description": "中国节气|立冬 中国节气｜立冬 发布时间：2025-11-07 【字体： 小 中 大】 立冬节气，时间在每年11月7—8日。",
+          "dates": [
+            "2025-11-07"
+          ],
+          "source_id": "ab0eba334be182057148"
+        }
+      ],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 6,
+        "entity_count": 7,
+        "event_count": 1
+      },
+      "content_fingerprint": "e5634c4f71a3110f95927bee80da57376d82c2a83e38f253538c0907c5e2d011",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "932f85499ccf5b821ed4",
+      "type": "news",
+      "title": "节气与健康|立冬:藏阳养肾，温补防寒 - 健康 - 中工网",
+      "url": "https://www.workercn.cn/c/2025-11-07/8652379.shtml",
+      "summary": "节气与健康｜立冬：藏阳养肾，温补防寒\n来源：人民日报海外版\n2025-11-07 16:33\n人民日报海外版记者 王美华\n11月7日是立冬节气。“这是冬季的第一个节气，标志着万物进入闭藏与休养的阶段。”首都医科大学附属北京中医医院肾病科副主任医师孙雪艳介绍，此时自然界阳气渐收，阴气渐盛，人体也应顺应“冬藏”的规律，收敛精神、蓄积能量，为来年春季的生发打下基础。中医认为，冬季对应五脏中的“肾”，而“肾主藏精”，是人体生命活动的根本",
+      "published_at": "2025-11-07T16:33:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131459+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "节气与健康|立冬:藏阳养肾，温补防寒 - 健康 - 中工网 节气与健康｜立冬：藏阳养肾，温补防寒 来源：人民日报海外版 2025-11-07 16:33 人民日报海外版记者 王美华 11月7日是立冬节气。“这是冬季的第一个节气，标志着万物进入闭藏与休养的阶段。”首都医科大学附属北京中医医院肾病科副主任医师孙雪艳介绍，此时自然界阳气渐收，阴气渐盛，人体也应顺应“冬藏”的规律，收敛精神、蓄积能量，为来年春季的生发打下基础。中医认为，冬季对应五脏中的“肾”，而“肾主藏精”，是人体生命活动的根本",
+      "language": "zh",
+      "segments": [
+        "节气与健康|立冬:藏阳养肾，温补防寒 - 健康 - 中工网 节气与健康｜立冬：藏阳养肾，温补防寒 来源：人民日报海外版 2025-11-07 16:33 人民日报海外版记者 王美华 11月7日是立冬节气。",
+        "“这是冬季的第一个节气，标志着万物进入闭藏与休养的阶段。",
+        "”首都医科大学附属北京中医医院肾病科副主任医师孙雪艳介绍，此时自然界阳气渐收，阴气渐盛，人体也应顺应“冬藏”的规律，收敛精神、蓄积能量，为来年春季的生发打下基础。",
+        "中医认为，冬季对应五脏中的“肾”，而“肾主藏精”，是人体生命活动的根本"
+      ],
+      "entities": [
+        {
+          "entity_id": "241637bde1f67641",
+          "type": "date",
+          "value": "2025-11-07",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "2025-11-07"
+        },
+        {
+          "entity_id": "4551861f8972e2e6",
+          "type": "date",
+          "value": "11月7日",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "11月7日"
+        },
+        {
+          "entity_id": "b10411b2662a173b",
+          "type": "number",
+          "value": "2025",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "d174beb63ae9e91a",
+          "type": "number",
+          "value": "16",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "16"
+        },
+        {
+          "entity_id": "308f837920a004eb",
+          "type": "number",
+          "value": "33 人",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "33 人"
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "6673e7e743048739",
+          "type": "named_topic",
+          "value": "这是冬季的第一个节气，标志着万物进入闭藏与休养的阶段。",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "这是冬季的第一个节气，标志着万物进入闭藏与休养的阶段。"
+        },
+        {
+          "entity_id": "4adeca29e1d8df90",
+          "type": "named_topic",
+          "value": "冬藏",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "冬藏"
+        },
+        {
+          "entity_id": "d2fbb82e73a540ef",
+          "type": "named_topic",
+          "value": "肾主藏精",
+          "source_id": "932f85499ccf5b821ed4",
+          "evidence": "肾主藏精"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "8ab8f8a6d982b2c21c1fb40cec2acdc203d58d06bd5508ee88f83361ee598124",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "b086e3e8c1c547d403d0",
+      "type": "news",
+      "title": "冷不冷，看立冬-新华网",
+      "url": "http://sd.news.cn/20251107/dfce58022d1b4f598ea218b119f33297/c.html",
+      "summary": "2025 11/07 16:16:14\n来源：大众日报\n冷不冷，看立冬\n2025-11-07 16:16:14  来源：大众日报\n谚语说：“冷不冷，看立冬。”立冬是冬天的第一个节气，古代的入冬标识特别直观：“水始冰，水面初凝，未至于坚；地始冻，土气凝寒，未至于坼。”古人没有量化的气温标准，而是以水始冰、地始冻作为冬季来临的标识。\n立冬后，山东很快将进入供暖季。其实，从唐代开始，农历十月初一生火取暖，就逐渐成为北方地区的一种习俗，名为“添火”。过去，开炉第一",
+      "published_at": "2025-11-07T16:16:14+08:00",
+      "collected_at": "2026-11-07T09:04:28.131445+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "冷不冷，看立冬-新华网 2025 11/07 16:16:14 来源：大众日报 冷不冷，看立冬 2025-11-07 16:16:14 来源：大众日报 谚语说：“冷不冷，看立冬。”立冬是冬天的第一个节气，古代的入冬标识特别直观：“水始冰，水面初凝，未至于坚；地始冻，土气凝寒，未至于坼。”古人没有量化的气温标准，而是以水始冰、地始冻作为冬季来临的标识。 立冬后，山东很快将进入供暖季。其实，从唐代开始，农历十月初一生火取暖，就逐渐成为北方地区的一种习俗，名为“添火”。过去，开炉第一",
+      "language": "zh",
+      "segments": [
+        "冷不冷，看立冬-新华网 2025 11/07 16:16:14 来源：大众日报 冷不冷，看立冬 2025-11-07 16:16:14 来源：大众日报 谚语说：“冷不冷，看立冬。",
+        "”立冬是冬天的第一个节气，古代的入冬标识特别直观：“水始冰，水面初凝，未至于坚；",
+        "地始冻，土气凝寒，未至于坼。",
+        "”古人没有量化的气温标准，而是以水始冰、地始冻作为冬季来临的标识。",
+        "立冬后，山东很快将进入供暖季。",
+        "其实，从唐代开始，农历十月初一生火取暖，就逐渐成为北方地区的一种习俗，名为“添火”。",
+        "过去，开炉第一"
+      ],
+      "entities": [
+        {
+          "entity_id": "c31b1d6e9b5612a1",
+          "type": "date",
+          "value": "2025",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "241637bde1f67641",
+          "type": "date",
+          "value": "2025-11-07",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "2025-11-07"
+        },
+        {
+          "entity_id": "77bd8c592955942a",
+          "type": "number",
+          "value": "2025 ",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "2025 "
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "d174beb63ae9e91a",
+          "type": "number",
+          "value": "16",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "16"
+        },
+        {
+          "entity_id": "7613bf4738111fa0",
+          "type": "number",
+          "value": "14 ",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "14 "
+        },
+        {
+          "entity_id": "b10411b2662a173b",
+          "type": "number",
+          "value": "2025",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "5e7e3f9f0fedfa6d",
+          "type": "named_topic",
+          "value": "冷不冷，看立冬。",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "冷不冷，看立冬。"
+        },
+        {
+          "entity_id": "13df31b9842f9775",
+          "type": "named_topic",
+          "value": "水始冰，水面初凝，未至于坚；地始冻，土气凝寒，未至于坼。",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "水始冰，水面初凝，未至于坚；地始冻，土气凝寒，未至于坼。"
+        },
+        {
+          "entity_id": "743333047c611b23",
+          "type": "named_topic",
+          "value": "添火",
+          "source_id": "b086e3e8c1c547d403d0",
+          "evidence": "添火"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 7,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "fa949fe29299979d69f39afeba973d27498618852acbd7412c283362870a7297",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "672e89897b4680f89160",
+      "type": "news",
+      "title": "节令之美丨立冬时节话“补冬”-新华网",
+      "url": "http://www.news.cn/politics/20251107/402c58cb670d4e20b759ef34cbdb8a64/c.html",
+      "summary": "2025 11/07 14:30:03\n来源：新华社\n节令之美丨立冬时节话“补冬”\n2025-11-07 14:30:03  来源：新华社\n黄花带露，红叶随风。11月7日，立冬节气悄然而至。\n《月令七十二候集解》记载：“立，建始也。”“冬，终也，万物收藏也。”立冬，意味着冬季正式来临。\n古人将立冬分为三候：一候水始冰，二候地始冻，三候雉入大水为蜃。我国幅员辽阔，此时北方已可见霜染寒枝，南方却是一派秋日景象。\n然而，无问南北，民间多有“补冬”的讲究。立冬天气渐寒，",
+      "published_at": "2025-11-07T14:30:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131388+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "节令之美丨立冬时节话“补冬”-新华网 2025 11/07 14:30:03 来源：新华社 节令之美丨立冬时节话“补冬” 2025-11-07 14:30:03 来源：新华社 黄花带露，红叶随风。11月7日，立冬节气悄然而至。 《月令七十二候集解》记载：“立，建始也。”“冬，终也，万物收藏也。”立冬，意味着冬季正式来临。 古人将立冬分为三候：一候水始冰，二候地始冻，三候雉入大水为蜃。我国幅员辽阔，此时北方已可见霜染寒枝，南方却是一派秋日景象。 然而，无问南北，民间多有“补冬”的讲究。立冬天气渐寒，",
+      "language": "zh",
+      "segments": [
+        "节令之美丨立冬时节话“补冬”-新华网 2025 11/07 14:30:03 来源：新华社 节令之美丨立冬时节话“补冬” 2025-11-07 14:30:03 来源：新华社 黄花带露，红叶随风。",
+        "11月7日，立冬节气悄然而至。",
+        "《月令七十二候集解》记载：“立，建始也。",
+        "”“冬，终也，万物收藏也。",
+        "”立冬，意味着冬季正式来临。",
+        "古人将立冬分为三候：一候水始冰，二候地始冻，三候雉入大水为蜃。",
+        "我国幅员辽阔，此时北方已可见霜染寒枝，南方却是一派秋日景象。",
+        "然而，无问南北，民间多有“补冬”的讲究。",
+        "立冬天气渐寒，"
+      ],
+      "entities": [
+        {
+          "entity_id": "c31b1d6e9b5612a1",
+          "type": "date",
+          "value": "2025",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "241637bde1f67641",
+          "type": "date",
+          "value": "2025-11-07",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "2025-11-07"
+        },
+        {
+          "entity_id": "4551861f8972e2e6",
+          "type": "date",
+          "value": "11月7日",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "11月7日"
+        },
+        {
+          "entity_id": "77bd8c592955942a",
+          "type": "number",
+          "value": "2025 ",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "2025 "
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "7ba412abbb722967",
+          "type": "number",
+          "value": "14",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "14"
+        },
+        {
+          "entity_id": "8298c483625bf876",
+          "type": "number",
+          "value": "30",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "30"
+        },
+        {
+          "entity_id": "e81272a9f9aeab5c",
+          "type": "number",
+          "value": "03 ",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "03 "
+        },
+        {
+          "entity_id": "b10411b2662a173b",
+          "type": "number",
+          "value": "2025",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "b174d793ec619cc1",
+          "type": "named_topic",
+          "value": "补冬",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "补冬"
+        },
+        {
+          "entity_id": "265159180855137d",
+          "type": "named_topic",
+          "value": "月令七十二候集解",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "月令七十二候集解"
+        },
+        {
+          "entity_id": "2b1acb3122f4d8f7",
+          "type": "named_topic",
+          "value": "立，建始也。",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "立，建始也。"
+        },
+        {
+          "entity_id": "841df49312a10335",
+          "type": "named_topic",
+          "value": "冬，终也，万物收藏也。",
+          "source_id": "672e89897b4680f89160",
+          "evidence": "冬，终也，万物收藏也。"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 9,
+        "entity_count": 15,
+        "event_count": 0
+      },
+      "content_fingerprint": "fe598a3af8a12cd18402c1cefae3f113c812555f9ab8a8e43720dad703eb4f09",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "28dc9e61e6276b78b1f6",
+      "type": "news",
+      "title": "立冬_节气里的大美中国_绥芬河市人民政府",
+      "url": "https://www.suifenhe.gov.cn/sfh/z202401/202411/c03_981015.shtml",
+      "summary": "立冬\n日期：2025-11-07 08:44  来源：互联网\n立冬，是二十四节气之第十九个节气，也是冬季的起始。斗柄指向西北，太阳黄经达225°，于每年公历11月7-8日之间交节。立，建始也；冬，终也，万物收藏也。立冬，意味着生气开始闭蓄，万物进入休养、收藏状态。其气候也由秋季少雨干燥向阴雨寒冻的冬季气候过渡。\n季节划分常用的方法主要有“节气法”与“气温法”。中国传统上是以“二十四节气”的“立冬”作为冬季起始；“节气法”划分的冬季，表",
+      "published_at": "2025-11-07T08:45:00+08:00",
+      "collected_at": "2026-11-07T09:04:28.131344+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "立冬_节气里的大美中国_绥芬河市人民政府 立冬 日期：2025-11-07 08:44 来源：互联网 立冬，是二十四节气之第十九个节气，也是冬季的起始。斗柄指向西北，太阳黄经达225°，于每年公历11月7-8日之间交节。立，建始也；冬，终也，万物收藏也。立冬，意味着生气开始闭蓄，万物进入休养、收藏状态。其气候也由秋季少雨干燥向阴雨寒冻的冬季气候过渡。 季节划分常用的方法主要有“节气法”与“气温法”。中国传统上是以“二十四节气”的“立冬”作为冬季起始；“节气法”划分的冬季，表",
+      "language": "zh",
+      "segments": [
+        "立冬_节气里的大美中国_绥芬河市人民政府 立冬 日期：2025-11-07 08:44 来源：互联网 立冬，是二十四节气之第十九个节气，也是冬季的起始。",
+        "斗柄指向西北，太阳黄经达225°，于每年公历11月7-8日之间交节。",
+        "立，建始也；",
+        "冬，终也，万物收藏也。",
+        "立冬，意味着生气开始闭蓄，万物进入休养、收藏状态。",
+        "其气候也由秋季少雨干燥向阴雨寒冻的冬季气候过渡。",
+        "季节划分常用的方法主要有“节气法”与“气温法”。",
+        "中国传统上是以“二十四节气”的“立冬”作为冬季起始；",
+        "“节气法”划分的冬季，表"
+      ],
+      "entities": [
+        {
+          "entity_id": "241637bde1f67641",
+          "type": "date",
+          "value": "2025-11-07",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "2025-11-07"
+        },
+        {
+          "entity_id": "b10411b2662a173b",
+          "type": "number",
+          "value": "2025",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "696980fb286a7bd4",
+          "type": "number",
+          "value": "08",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "08"
+        },
+        {
+          "entity_id": "4624e5a71bbac76e",
+          "type": "number",
+          "value": "44 ",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "44 "
+        },
+        {
+          "entity_id": "edabd543b41ca275",
+          "type": "number",
+          "value": "225",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "225"
+        },
+        {
+          "entity_id": "22d11021b6b924df",
+          "type": "number",
+          "value": "7",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "7"
+        },
+        {
+          "entity_id": "570bbde4184aa9e8",
+          "type": "number",
+          "value": "8",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "8"
+        },
+        {
+          "entity_id": "663602ba9fb592bc",
+          "type": "named_topic",
+          "value": "节气法",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "节气法"
+        },
+        {
+          "entity_id": "5f301e3b95cb1da1",
+          "type": "named_topic",
+          "value": "气温法",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "气温法"
+        },
+        {
+          "entity_id": "47f6c10741bb0714",
+          "type": "named_topic",
+          "value": "二十四节气",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "二十四节气"
+        },
+        {
+          "entity_id": "50eef3885e407c68",
+          "type": "named_topic",
+          "value": "立冬",
+          "source_id": "28dc9e61e6276b78b1f6",
+          "evidence": "立冬"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 9,
+        "entity_count": 13,
+        "event_count": 0
+      },
+      "content_fingerprint": "a8b440e3dc611b0561d103c82051412df34cc00042222ccf298e0726f8e3bc42",
+      "relevance_score": 1.0
+    }
+  ]
+}

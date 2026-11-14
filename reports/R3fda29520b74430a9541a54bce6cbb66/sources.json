@@ -1,0 +1,2288 @@
+{
+  "query": "美国中期选举",
+  "executed_at": "2026-11-06T21:16:34.910100+08:00",
+  "sources": [
+    {
+      "source_id": "10aa73b3b5142f996bbf",
+      "type": "news",
+      "title": "中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局_中华网",
+      "url": "https://3g.china.com/act/news/10000169/20261106/49847164.html",
+      "summary": "中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局\n贸易夜航  2026-11-06 12:18:36\n中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局！2026年美国中期选举投票结束，民主党取得压倒性胜利，重新夺回国会参议院\n和众议院的控制权。在参议院，民主党翻转了多个共和党传统优势州的席位，包括北卡罗来纳、南卡罗来纳、得克萨斯（38年来首位民主党参议员）、俄亥俄、堪萨斯、艾奥瓦等，获得约53席或55席，重新掌控多数。在众议院，民",
+      "published_at": "2026-11-06T00:00:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821297+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局_中华网 中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局 贸易夜航 2026-11-06 12:18:36 中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局！2026年美国中期选举投票结束，民主党取得压倒性胜利，重新夺回国会参议院 和众议院的控制权。在参议院，民主党翻转了多个共和党传统优势州的席位，包括北卡罗来纳、南卡罗来纳、得克萨斯（38年来首位民主党参议员）、俄亥俄、堪萨斯、艾奥瓦等，获得约53席或55席，重新掌控多数。在众议院，民",
+      "language": "zh",
+      "segments": [
+        "中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局_中华网 中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局 贸易夜航 2026-11-06 12:18:36 中期选举爆冷民主党拿下美国国会控制权 压倒性胜利重塑政局！",
+        "2026年美国中期选举投票结束，民主党取得压倒性胜利，重新夺回国会参议院 和众议院的控制权。",
+        "在参议院，民主党翻转了多个共和党传统优势州的席位，包括北卡罗来纳、南卡罗来纳、得克萨斯（38年来首位民主党参议员）、俄亥俄、堪萨斯、艾奥瓦等，获得约53席或55席，重新掌控多数。",
+        "在众议院，民"
+      ],
+      "entities": [
+        {
+          "entity_id": "c10c9d8e3b026495",
+          "type": "date",
+          "value": "2026-11-06",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "2026-11-06"
+        },
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "4c96dcb741340cb1",
+          "type": "number",
+          "value": "06 ",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "06 "
+        },
+        {
+          "entity_id": "fcef0ee2bcead433",
+          "type": "number",
+          "value": "12",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "12"
+        },
+        {
+          "entity_id": "11d56a8f795ce301",
+          "type": "number",
+          "value": "18",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "18"
+        },
+        {
+          "entity_id": "d07f2ee979fe7c04",
+          "type": "number",
+          "value": "36 ",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "36 "
+        },
+        {
+          "entity_id": "3f9f250aa0e23213",
+          "type": "number",
+          "value": "38",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "38"
+        },
+        {
+          "entity_id": "7193380565bc0d11",
+          "type": "number",
+          "value": "53",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "53"
+        },
+        {
+          "entity_id": "913a60d7e578cb5a",
+          "type": "number",
+          "value": "55",
+          "source_id": "10aa73b3b5142f996bbf",
+          "evidence": "55"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "7cb800d93d23d039bd58bc07464c9d0cc751d7ab8f3c22d09e882e851d954dfb",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "47feaac1bdbc7fec549d",
+      "type": "news",
+      "title": "美国中期选举共和党遭重挫 败选结果引发震动——中国青年网",
+      "url": "http://news.youth.cn/gj/202611/t20261105_16950743.htm",
+      "summary": "美国中期选举共和党遭重挫 败选结果引发震动\n2026-11-05 14:00 来源：央视新闻客户端\n当地时间11月4日，美国2026年中期选举结果逐步明朗。美国主要媒体确认，民主党不仅重新夺回国会众议院控制权，而且还在参议院选举中实现突\n。更引人关注的是，民主党的胜利远远超出传统摇摆州，深入到了得克萨斯、堪萨斯、艾奥瓦等长期支持共和党的红州，一些延续数十年的选举格局被打破。\n尽管选前民调已显示共和党面临不利局面，但败选的广泛程度仍令美国",
+      "published_at": "2026-11-05T14:00:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821370+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举共和党遭重挫 败选结果引发震动——中国青年网 美国中期选举共和党遭重挫 败选结果引发震动 2026-11-05 14:00 来源：央视新闻客户端 当地时间11月4日，美国2026年中期选举结果逐步明朗。美国主要媒体确认，民主党不仅重新夺回国会众议院控制权，而且还在参议院选举中实现突 。更引人关注的是，民主党的胜利远远超出传统摇摆州，深入到了得克萨斯、堪萨斯、艾奥瓦等长期支持共和党的红州，一些延续数十年的选举格局被打破。 尽管选前民调已显示共和党面临不利局面，但败选的广泛程度仍令美国",
+      "language": "zh",
+      "segments": [
+        "美国中期选举共和党遭重挫 败选结果引发震动——中国青年网 美国中期选举共和党遭重挫 败选结果引发震动 2026-11-05 14:00 来源：央视新闻客户端 当地时间11月4日，美国2026年中期选举结果逐步明朗。",
+        "美国主要媒体确认，民主党不仅重新夺回国会众议院控制权，而且还在参议院选举中实现突 。",
+        "更引人关注的是，民主党的胜利远远超出传统摇摆州，深入到了得克萨斯、堪萨斯、艾奥瓦等长期支持共和党的红州，一些延续数十年的选举格局被打破。",
+        "尽管选前民调已显示共和党面临不利局面，但败选的广泛程度仍令美国"
+      ],
+      "entities": [
+        {
+          "entity_id": "973fef0261a1cff7",
+          "type": "date",
+          "value": "2026-11-05",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "2026-11-05"
+        },
+        {
+          "entity_id": "73eba0968b94e384",
+          "type": "date",
+          "value": "11月4日",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "11月4日"
+        },
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "1b7b13d57c4b9859",
+          "type": "number",
+          "value": "05 ",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "05 "
+        },
+        {
+          "entity_id": "7ba412abbb722967",
+          "type": "number",
+          "value": "14",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "14"
+        },
+        {
+          "entity_id": "1c4dbc5935148cd7",
+          "type": "number",
+          "value": "00 ",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "00 "
+        },
+        {
+          "entity_id": "35bb50dd77e38290",
+          "type": "number",
+          "value": "4",
+          "source_id": "47feaac1bdbc7fec549d",
+          "evidence": "4"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 9,
+        "event_count": 0
+      },
+      "content_fingerprint": "1bec907d613bbde28ffb06c0bd82a2892f9fd959424e2722ffcb03db17c00cc4",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "0970d8f3ffc55497745f",
+      "type": "news",
+      "title": "民主党翻盘，“否决政治”或成美国常态_中国网",
+      "url": "http://www.china.com.cn/opinion2020/2026-11/05/content_118762252.shtml",
+      "summary": "民主党翻盘，“否决政治”或成美国常态\n2026-11-05 13:25来源：环球时报\n11月4日，美国中期选举已完成投票进程。根据初步计票结果，民主党将重新夺回美国国会参众两院的控制权，民主党主政州的数目也呈增加势头。此次选举将\n显增强民主党在美国政治舞台上的地位，使得该国政坛从共和党主导政府和国会的单方面优势局面，转变为民主、共和两党在国会和政府“分庭抗礼”的格局，但这仍然没有打破美国政治撕裂与极化的恶性循环。\n值得关注的是，",
+      "published_at": "2026-11-05T13:25:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821553+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "民主党翻盘，“否决政治”或成美国常态_中国网 民主党翻盘，“否决政治”或成美国常态 2026-11-05 13:25来源：环球时报 11月4日，美国中期选举已完成投票进程。根据初步计票结果，民主党将重新夺回美国国会参众两院的控制权，民主党主政州的数目也呈增加势头。此次选举将 显增强民主党在美国政治舞台上的地位，使得该国政坛从共和党主导政府和国会的单方面优势局面，转变为民主、共和两党在国会和政府“分庭抗礼”的格局，但这仍然没有打破美国政治撕裂与极化的恶性循环。 值得关注的是，",
+      "language": "zh",
+      "segments": [
+        "民主党翻盘，“否决政治”或成美国常态_中国网 民主党翻盘，“否决政治”或成美国常态 2026-11-05 13:25来源：环球时报 11月4日，美国中期选举已完成投票进程。",
+        "根据初步计票结果，民主党将重新夺回美国国会参众两院的控制权，民主党主政州的数目也呈增加势头。",
+        "此次选举将 显增强民主党在美国政治舞台上的地位，使得该国政坛从共和党主导政府和国会的单方面优势局面，转变为民主、共和两党在国会和政府“分庭抗礼”的格局，但这仍然没有打破美国政治撕裂与极化的恶性循环。",
+        "值得关注的是，"
+      ],
+      "entities": [
+        {
+          "entity_id": "973fef0261a1cff7",
+          "type": "date",
+          "value": "2026-11-05",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "2026-11-05"
+        },
+        {
+          "entity_id": "73eba0968b94e384",
+          "type": "date",
+          "value": "11月4日",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "11月4日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "1b7b13d57c4b9859",
+          "type": "number",
+          "value": "05 ",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "05 "
+        },
+        {
+          "entity_id": "f46919ba9b0b2509",
+          "type": "number",
+          "value": "13",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "13"
+        },
+        {
+          "entity_id": "cb9e5cba110da5e3",
+          "type": "number",
+          "value": "25",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "25"
+        },
+        {
+          "entity_id": "35bb50dd77e38290",
+          "type": "number",
+          "value": "4",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "4"
+        },
+        {
+          "entity_id": "e81d4522ac6f8fbd",
+          "type": "named_topic",
+          "value": "否决政治",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "否决政治"
+        },
+        {
+          "entity_id": "8ffa70bb9421a7a7",
+          "type": "named_topic",
+          "value": "分庭抗礼",
+          "source_id": "0970d8f3ffc55497745f",
+          "evidence": "分庭抗礼"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 10,
+        "event_count": 0
+      },
+      "content_fingerprint": "cb5826934ab1a662b4ba6014919123c78af70c0da5165f54ce409ba8c309dd6d",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "a5766e2585dde1bc02a1",
+      "type": "news",
+      "title": "[新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权",
+      "url": "https://tv.cctv.com/2026/11/05/VIDEVw3ywR31dXjuoxRafnkO261105.shtml",
+      "summary": "[新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权\n来源 : 央视网2026-11-05 05:33内容简介关注\n视频简介\n美国中期选举投票结束，计票工作仍在进行：美媒预测民主党赢得国会两院控制权。\n\n目信息\n栏目名称：\n栏目介绍：\n[新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权 简介\n来源：央视网 更新时间：2026年11月05日 05:33\n视频简介\n美国中期选举投票结束，计票工作仍在进行",
+      "published_at": "2026-11-05T05:33:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821445+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "[新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权 [新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权 来源 : 央视网2026-11-05 05:33内容简介关注 视频简介 美国中期选举投票结束，计票工作仍在进行：美媒预测民主党赢得国会两院控制权。 目信息 栏目名称： 栏目介绍： [新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权 简介 来源：央视网 更新时间：2026年11月05日 05:33 视频简介 美国中期选举投票结束，计票工作仍在进行",
+      "language": "zh",
+      "segments": [
+        "[新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权 [新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权 来源 : 央视网2026-11-05 05:33内容简介关注 视频简介 美国中期选举投票结束，计票工作仍在进行：美媒预测民主党赢得国会两院控制权。",
+        "目信息 栏目名称： 栏目介绍： [新闻直播间]美国中期选举投票结束 计票工作仍在进行 美媒预测民主党赢得国会两院控制权 简介 来源：央视网 更新时间：2026年11月05日 05:33 视频简介 美国中期选举投票结束，计票工作仍在进行"
+      ],
+      "entities": [
+        {
+          "entity_id": "973fef0261a1cff7",
+          "type": "date",
+          "value": "2026-11-05",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "2026-11-05"
+        },
+        {
+          "entity_id": "3c002ec017dee5e0",
+          "type": "date",
+          "value": "2026年11月05日",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "2026年11月05日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "1b7b13d57c4b9859",
+          "type": "number",
+          "value": "05 ",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "05 "
+        },
+        {
+          "entity_id": "9d911fc8eef91e5d",
+          "type": "number",
+          "value": "05",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "05"
+        },
+        {
+          "entity_id": "daec840f0136987a",
+          "type": "number",
+          "value": "33",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "33"
+        },
+        {
+          "entity_id": "095d0cf93bc5116f",
+          "type": "number",
+          "value": "33 ",
+          "source_id": "a5766e2585dde1bc02a1",
+          "evidence": "33 "
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 2,
+        "entity_count": 8,
+        "event_count": 0
+      },
+      "content_fingerprint": "c3e4f7d74418404e9d9ae404759153d59e97a0dc04e1df34261039eabbd11155",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "325a258592c84e00e496",
+      "type": "news",
+      "title": "美国中期选举变局:民主党或重掌两院，特朗普面临更强制衡-中新网",
+      "url": "http://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
+      "summary": "美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡\n美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡\n2026-11-04 21:21:12来源：中国新闻网作者：付子豪责任编辑：付子豪\n2026年11月04日 21:21 来源：中国新闻网\n中\n新网11月4日 综合外媒报道，当地时间11月4日，随着美国多场关键选战结果陆续揭晓，美国国会权力格局将出现重大变化。多家美媒预测，民主党在3日举行的中期选举中力压共和党夺回参议院和众议院控制权，重新掌控美国国会。",
+      "published_at": "2026-11-04T21:21:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821536+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举变局:民主党或重掌两院，特朗普面临更强制衡-中新网 美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡 美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡 2026-11-04 21:21:12来源：中国新闻网作者：付子豪责任编辑：付子豪 2026年11月04日 21:21 来源：中国新闻网 中 新网11月4日 综合外媒报道，当地时间11月4日，随着美国多场关键选战结果陆续揭晓，美国国会权力格局将出现重大变化。多家美媒预测，民主党在3日举行的中期选举中力压共和党夺回参议院和众议院控制权，重新掌控美国国会。",
+      "language": "zh",
+      "segments": [
+        "美国中期选举变局:民主党或重掌两院，特朗普面临更强制衡-中新网 美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡 美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡 2026-11-04 21:21:12来源：中国新闻网作者：付子豪责任编辑：付子豪 2026年11月04日 21:21 来源：中国新闻网 中 新网11月4日 综合外媒报道，当地时间11月4日，随着美国多场关键选战结果陆续揭晓，美国国会权力格局将出现重大变化。",
+        "多家美媒预测，民主党在3日举行的中期选举中力压共和党夺回参议院和众议院控制权，重新掌控美国国会。"
+      ],
+      "entities": [
+        {
+          "entity_id": "766781e677a80a1f",
+          "type": "date",
+          "value": "2026-11-04",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "2026-11-04"
+        },
+        {
+          "entity_id": "78bdff626c37a35f",
+          "type": "date",
+          "value": "2026年11月04日",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "2026年11月04日"
+        },
+        {
+          "entity_id": "73eba0968b94e384",
+          "type": "date",
+          "value": "11月4日",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "11月4日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "5aad3c461382d38b",
+          "type": "number",
+          "value": "04 ",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "04 "
+        },
+        {
+          "entity_id": "39bf10e8e1f5f862",
+          "type": "number",
+          "value": "21",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "21"
+        },
+        {
+          "entity_id": "fcef0ee2bcead433",
+          "type": "number",
+          "value": "12",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "12"
+        },
+        {
+          "entity_id": "5205b7adea0c9543",
+          "type": "number",
+          "value": "04",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "04"
+        },
+        {
+          "entity_id": "d42880cb23175509",
+          "type": "number",
+          "value": "21 ",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "21 "
+        },
+        {
+          "entity_id": "35bb50dd77e38290",
+          "type": "number",
+          "value": "4",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "4"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "325a258592c84e00e496",
+          "evidence": "3"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 2,
+        "entity_count": 12,
+        "event_count": 0
+      },
+      "content_fingerprint": "be47049b5d8f0b917a71d2b46b3609c6d2eea79e4497f3fabd972c69ac135c30",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "ef05f367a459487e009a",
+      "type": "news",
+      "title": "国际观察丨“蓝潮”后的特朗普困局-新华网",
+      "url": "http://www.xinhuanet.com/world/20261104/8a09804b8c654f7582c4d0ed8ff50d52/c.html",
+      "summary": "华网\n国际观察丨“蓝潮”后的特朗普困局\n2026-11-04 20:28:25  来源：新华网\n新华社纽约11月4日电（记者杨士龙 施春）美国中期选举于11月3日举行。据美国媒体预测，民主党在选举中力压共和党重获国会参议院和众议院控制权。\n分析\n人士认为，特朗普政府发起的“关税战”和对伊朗军事行动抬升美国国内物价和生活成本，引发选民不满，成为共和党选举惨败主要原因。随着民主党掌控国会两院，特朗普政府后续施政将面临更大阻力。\n汹涌的“蓝潮”\n美东时",
+      "published_at": "2026-11-04T20:28:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821590+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "国际观察丨“蓝潮”后的特朗普困局-新华网 华网 国际观察丨“蓝潮”后的特朗普困局 2026-11-04 20:28:25 来源：新华网 新华社纽约11月4日电（记者杨士龙 施春）美国中期选举于11月3日举行。据美国媒体预测，民主党在选举中力压共和党重获国会参议院和众议院控制权。 分析 人士认为，特朗普政府发起的“关税战”和对伊朗军事行动抬升美国国内物价和生活成本，引发选民不满，成为共和党选举惨败主要原因。随着民主党掌控国会两院，特朗普政府后续施政将面临更大阻力。 汹涌的“蓝潮” 美东时",
+      "language": "zh",
+      "segments": [
+        "国际观察丨“蓝潮”后的特朗普困局-新华网 华网 国际观察丨“蓝潮”后的特朗普困局 2026-11-04 20:28:25 来源：新华网 新华社纽约11月4日电（记者杨士龙 施春）美国中期选举于11月3日举行。",
+        "据美国媒体预测，民主党在选举中力压共和党重获国会参议院和众议院控制权。",
+        "分析 人士认为，特朗普政府发起的“关税战”和对伊朗军事行动抬升美国国内物价和生活成本，引发选民不满，成为共和党选举惨败主要原因。",
+        "随着民主党掌控国会两院，特朗普政府后续施政将面临更大阻力。",
+        "汹涌的“蓝潮” 美东时"
+      ],
+      "entities": [
+        {
+          "entity_id": "766781e677a80a1f",
+          "type": "date",
+          "value": "2026-11-04",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "2026-11-04"
+        },
+        {
+          "entity_id": "73eba0968b94e384",
+          "type": "date",
+          "value": "11月4日",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "11月4日"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "5aad3c461382d38b",
+          "type": "number",
+          "value": "04 ",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "04 "
+        },
+        {
+          "entity_id": "10313681fd94bdf8",
+          "type": "number",
+          "value": "20",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "20"
+        },
+        {
+          "entity_id": "b09d5aaa1ff68e59",
+          "type": "number",
+          "value": "28",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "28"
+        },
+        {
+          "entity_id": "59579ff3da999cdd",
+          "type": "number",
+          "value": "25 ",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "25 "
+        },
+        {
+          "entity_id": "35bb50dd77e38290",
+          "type": "number",
+          "value": "4",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "4"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "fd1bc8877efea25c",
+          "type": "named_topic",
+          "value": "蓝潮",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "蓝潮"
+        },
+        {
+          "entity_id": "e000c58b1fe50bf3",
+          "type": "named_topic",
+          "value": "关税战",
+          "source_id": "ef05f367a459487e009a",
+          "evidence": "关税战"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 13,
+        "event_count": 0
+      },
+      "content_fingerprint": "6666e3a71a14c2cb5c3931f4684b6363f98ea4a05fbf7e5448a2b74a66897845",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "51ef024ecd36eed3c1f1",
+      "type": "news",
+      "title": "2026年美国中期选举",
+      "url": "https://m.baike.com/wiki/2026%E5%B9%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE/7555704766589452323",
+      "summary": "2026年美国中期选举的选举日期为2026年11月3日，将改选所有435个众议院席位、约三分之一的参议院席位（35席）、39个州长职位及大量地方和州一级职位。此次选举将决定国会控制权归属，截至2025年共和党在参众两院均仅保持微弱多数。本次选举覆盖宾夕法尼亚州、密歇根州、亚利桑那州等关键战场州，德克萨斯州、佛罗里达州等红州重镇，以及纽约州、加利福尼亚州等蓝州堡垒的州长选举。第三方政党可推举候选人参选，如马斯克推动的“美国党”",
+      "published_at": "2026-11-04T20:00:56+08:00",
+      "collected_at": "2026-11-06T13:16:40.821483+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "2026年美国中期选举 2026年美国中期选举的选举日期为2026年11月3日，将改选所有435个众议院席位、约三分之一的参议院席位（35席）、39个州长职位及大量地方和州一级职位。此次选举将决定国会控制权归属，截至2025年共和党在参众两院均仅保持微弱多数。本次选举覆盖宾夕法尼亚州、密歇根州、亚利桑那州等关键战场州，德克萨斯州、佛罗里达州等红州重镇，以及纽约州、加利福尼亚州等蓝州堡垒的州长选举。第三方政党可推举候选人参选，如马斯克推动的“美国党”",
+      "language": "zh",
+      "segments": [
+        "2026年美国中期选举 2026年美国中期选举的选举日期为2026年11月3日，将改选所有435个众议院席位、约三分之一的参议院席位（35席）、39个州长职位及大量地方和州一级职位。",
+        "此次选举将决定国会控制权归属，截至2025年共和党在参众两院均仅保持微弱多数。",
+        "本次选举覆盖宾夕法尼亚州、密歇根州、亚利桑那州等关键战场州，德克萨斯州、佛罗里达州等红州重镇，以及纽约州、加利福尼亚州等蓝州堡垒的州长选举。",
+        "第三方政党可推举候选人参选，如马斯克推动的“美国党”"
+      ],
+      "entities": [
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "676e509009dc2912",
+          "type": "date",
+          "value": "2026年11月3日",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "2026年11月3日"
+        },
+        {
+          "entity_id": "c31b1d6e9b5612a1",
+          "type": "date",
+          "value": "2025",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "435"
+        },
+        {
+          "entity_id": "93c55b0be07dce22",
+          "type": "number",
+          "value": "35",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "35"
+        },
+        {
+          "entity_id": "d1cb52f90aa2050c",
+          "type": "number",
+          "value": "39",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "39"
+        },
+        {
+          "entity_id": "b10411b2662a173b",
+          "type": "number",
+          "value": "2025",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "2025"
+        },
+        {
+          "entity_id": "812f38c29a35df86",
+          "type": "named_topic",
+          "value": "美国党",
+          "source_id": "51ef024ecd36eed3c1f1",
+          "evidence": "美国党"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "9acc7542f5508c298e0165119de020b73107019288ab340aa2ddbdbf1b9b221a",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "94a31d7ae89612f18899",
+      "type": "news",
+      "title": "美国中期选举最新民调显示，特朗普支持率38%，52%的受访民众支持民主党",
+      "url": "http://m.toutiao.com/group/7704207156693828111/?upstream_biz=VolcEngine",
+      "summary": "美国2026年中期选举11月3日举行。在此次选举中，国会众议院全部435个议席、参议院35个议席将改选，宾夕法尼亚州、佛罗里达州、马里兰州等36个州将举行州长选举。据美国全国广播公司（NBC）最新民调显示，在此次中期选举中，\n52%的受访民众支持民主党，44%的受访民众支持共和党。对于美国总统特朗普，在受访民众中的支持率为38%。美国媒体3日晚预测，民主党将在此次中期选举中从共和党手中夺回多个众议院席位，重新掌控国会众议院。来源：新华社 \n本文作者：人民来信",
+      "published_at": "2026-11-04T14:58:58+08:00",
+      "collected_at": "2026-11-06T13:16:40.821721+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举最新民调显示，特朗普支持率38%，52%的受访民众支持民主党 美国2026年中期选举11月3日举行。在此次选举中，国会众议院全部435个议席、参议院35个议席将改选，宾夕法尼亚州、佛罗里达州、马里兰州等36个州将举行州长选举。据美国全国广播公司（NBC）最新民调显示，在此次中期选举中， 52%的受访民众支持民主党，44%的受访民众支持共和党。对于美国总统特朗普，在受访民众中的支持率为38%。美国媒体3日晚预测，民主党将在此次中期选举中从共和党手中夺回多个众议院席位，重新掌控国会众议院。来源：新华社 本文作者：人民来信",
+      "language": "zh-en",
+      "segments": [
+        "美国中期选举最新民调显示，特朗普支持率38%，52%的受访民众支持民主党 美国2026年中期选举11月3日举行。",
+        "在此次选举中，国会众议院全部435个议席、参议院35个议席将改选，宾夕法尼亚州、佛罗里达州、马里兰州等36个州将举行州长选举。",
+        "据美国全国广播公司（NBC）最新民调显示，在此次中期选举中， 52%的受访民众支持民主党，44%的受访民众支持共和党。",
+        "对于美国总统特朗普，在受访民众中的支持率为38%。",
+        "美国媒体3日晚预测，民主党将在此次中期选举中从共和党手中夺回多个众议院席位，重新掌控国会众议院。",
+        "来源：新华社 本文作者：人民来信"
+      ],
+      "entities": [
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "6884f8fe6f166db0",
+          "type": "number",
+          "value": "38%",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "38%"
+        },
+        {
+          "entity_id": "2ae5d6c7dd5fc4e0",
+          "type": "number",
+          "value": "52%",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "52%"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "435"
+        },
+        {
+          "entity_id": "93c55b0be07dce22",
+          "type": "number",
+          "value": "35",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "35"
+        },
+        {
+          "entity_id": "92eb532892c807f1",
+          "type": "number",
+          "value": "36",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "36"
+        },
+        {
+          "entity_id": "c7520aa948f475a8",
+          "type": "number",
+          "value": "44%",
+          "source_id": "94a31d7ae89612f18899",
+          "evidence": "44%"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 6,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "0a58c0fac523d21536312931407048a461396e4ad1cbd29eaeae2acf2c1e3637",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "f7cb7a4eaa709c58c84c",
+      "type": "news",
+      "title": "美国中期选举选情胶着 国会控制权争夺激烈",
+      "url": "https://m.thecover.cn/news_details.html?eid=zE+9Z8SZxf+H90qSdq8Jkw==",
+      "summary": "美国中期选举选情胶着 国会控制权争夺激烈\n央视新闻客户端\n2026-11-04 10:07\n当地时间11月3日，美国举行中期选举投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。\n根据10月29日至1\n1月2日进行的路透社与益普索集团民调，在受访的美国登记选民中，46%支持民主党掌控国会，38%支持共和党掌控国会。此次中期选举，国会参众两院的控制权归属成为关注焦点。\n央视记者 许弢：选举前，共和党以218席对214席的微",
+      "published_at": "2026-11-04T10:07:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821621+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举选情胶着 国会控制权争夺激烈 美国中期选举选情胶着 国会控制权争夺激烈 央视新闻客户端 2026-11-04 10:07 当地时间11月3日，美国举行中期选举投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。 根据10月29日至1 1月2日进行的路透社与益普索集团民调，在受访的美国登记选民中，46%支持民主党掌控国会，38%支持共和党掌控国会。此次中期选举，国会参众两院的控制权归属成为关注焦点。 央视记者 许弢：选举前，共和党以218席对214席的微",
+      "language": "zh",
+      "segments": [
+        "美国中期选举选情胶着 国会控制权争夺激烈 美国中期选举选情胶着 国会控制权争夺激烈 央视新闻客户端 2026-11-04 10:07 当地时间11月3日，美国举行中期选举投票。",
+        "在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。",
+        "根据10月29日至1 1月2日进行的路透社与益普索集团民调，在受访的美国登记选民中，46%支持民主党掌控国会，38%支持共和党掌控国会。",
+        "此次中期选举，国会参众两院的控制权归属成为关注焦点。",
+        "央视记者 许弢：选举前，共和党以218席对214席的微"
+      ],
+      "entities": [
+        {
+          "entity_id": "766781e677a80a1f",
+          "type": "date",
+          "value": "2026-11-04",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "2026-11-04"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "ab8f8b9aa34093a7",
+          "type": "date",
+          "value": "10月29日",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "10月29日"
+        },
+        {
+          "entity_id": "224e1c47a656df58",
+          "type": "date",
+          "value": "1月2日",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "1月2日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "5aad3c461382d38b",
+          "type": "number",
+          "value": "04 ",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "04 "
+        },
+        {
+          "entity_id": "8c8426667a2ed673",
+          "type": "number",
+          "value": "10",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "10"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "6bb0e7db99c7dd9f",
+          "type": "number",
+          "value": "29",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "29"
+        },
+        {
+          "entity_id": "73e7bae9f0cca378",
+          "type": "number",
+          "value": "1 ",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "1 "
+        },
+        {
+          "entity_id": "c1918af55c87b4f1",
+          "type": "number",
+          "value": "1",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "1"
+        },
+        {
+          "entity_id": "ab6e749e180f2c5e",
+          "type": "number",
+          "value": "2",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "2"
+        },
+        {
+          "entity_id": "94404ba3968cf998",
+          "type": "number",
+          "value": "46%",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "46%"
+        },
+        {
+          "entity_id": "6884f8fe6f166db0",
+          "type": "number",
+          "value": "38%",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "38%"
+        },
+        {
+          "entity_id": "648e2538e55dd8de",
+          "type": "number",
+          "value": "218",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "218"
+        },
+        {
+          "entity_id": "7508a22cc3546aee",
+          "type": "number",
+          "value": "214",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "214"
+        },
+        {
+          "entity_id": "6971bc8777e4c622",
+          "type": "named_topic",
+          "value": "期中考试",
+          "source_id": "f7cb7a4eaa709c58c84c",
+          "evidence": "期中考试"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 19,
+        "event_count": 0
+      },
+      "content_fingerprint": "69842c52f85e2c715e9f75bf771f98340985ae14149e9715cfae186c94672c10",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "b06a6243ab8f9f53d692",
+      "type": "news",
+      "title": "美国中期选举观察|美国中期选举再次上演党争“大戏” - 国际 - 中工网",
+      "url": "https://www.workercn.cn/c/2026-11-04/8932611.shtml",
+      "summary": "资金投入创纪录，司法纠纷不停歇\n美国中期选举观察｜美国中期选举再次上演党争“大戏”\n来源：工人日报\n2026-11-04 03:23\n本报记者 梁凡\n当地时间11月3日开始的美国中期选举，堪称近期美国举国上下最受关注的国家议程。近期多\n民意调查显示，以蓝色为代表色的民主党有望在选举中夺取众议院，而共和党和民主党在参议院的竞争或更加激烈。同时，不少舆论关注到，在本次中期选举当中，美国固有的金钱政治、党派对立等问题更加凸显，美国政坛与社",
+      "published_at": "2026-11-04T03:23:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821637+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举观察|美国中期选举再次上演党争“大戏” - 国际 - 中工网 资金投入创纪录，司法纠纷不停歇 美国中期选举观察｜美国中期选举再次上演党争“大戏” 来源：工人日报 2026-11-04 03:23 本报记者 梁凡 当地时间11月3日开始的美国中期选举，堪称近期美国举国上下最受关注的国家议程。近期多 民意调查显示，以蓝色为代表色的民主党有望在选举中夺取众议院，而共和党和民主党在参议院的竞争或更加激烈。同时，不少舆论关注到，在本次中期选举当中，美国固有的金钱政治、党派对立等问题更加凸显，美国政坛与社",
+      "language": "zh",
+      "segments": [
+        "美国中期选举观察|美国中期选举再次上演党争“大戏” - 国际 - 中工网 资金投入创纪录，司法纠纷不停歇 美国中期选举观察｜美国中期选举再次上演党争“大戏” 来源：工人日报 2026-11-04 03:23 本报记者 梁凡 当地时间11月3日开始的美国中期选举，堪称近期美国举国上下最受关注的国家议程。",
+        "近期多 民意调查显示，以蓝色为代表色的民主党有望在选举中夺取众议院，而共和党和民主党在参议院的竞争或更加激烈。",
+        "同时，不少舆论关注到，在本次中期选举当中，美国固有的金钱政治、党派对立等问题更加凸显，美国政坛与社"
+      ],
+      "entities": [
+        {
+          "entity_id": "766781e677a80a1f",
+          "type": "date",
+          "value": "2026-11-04",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "2026-11-04"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "5aad3c461382d38b",
+          "type": "number",
+          "value": "04 ",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "04 "
+        },
+        {
+          "entity_id": "b4d95a26695db031",
+          "type": "number",
+          "value": "03",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "03"
+        },
+        {
+          "entity_id": "0c9201d00641413d",
+          "type": "number",
+          "value": "23 ",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "23 "
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "738be3feaee85084",
+          "type": "named_topic",
+          "value": "大戏",
+          "source_id": "b06a6243ab8f9f53d692",
+          "evidence": "大戏"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "ab520cc904c161e1",
+          "trigger": "调查",
+          "description": "近期多 民意调查显示，以蓝色为代表色的民主党有望在选举中夺取众议院，而共和党和民主党在参议院的竞争或更加激烈。",
+          "dates": [],
+          "source_id": "b06a6243ab8f9f53d692"
+        }
+      ],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 3,
+        "entity_count": 9,
+        "event_count": 1
+      },
+      "content_fingerprint": "d58fa1bddcfe29ec0c49ca0d137ad4f9136c812758eb676d07b75621d942ecb8",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "c9c1713ea6b981f52c38",
+      "type": "news",
+      "title": "美国中期选举开始投票-新华网",
+      "url": "http://www.xinhuanet.com/world/20261103/76a392928aed4544a08226ba3a20b952/c.html",
+      "summary": "2026 11/03 19:01:16\n来源：新华网\n美国中期选举开始投票\n2026-11-03 19:01:16  来源：新华网\n新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日开始举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州\n东部一些州的投票点率先开启投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。\n在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个",
+      "published_at": "2026-11-03T19:01:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821400+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举开始投票-新华网 2026 11/03 19:01:16 来源：新华网 美国中期选举开始投票 2026-11-03 19:01:16 来源：新华网 新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日开始举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州 东部一些州的投票点率先开启投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。 在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个",
+      "language": "zh",
+      "segments": [
+        "美国中期选举开始投票-新华网 2026 11/03 19:01:16 来源：新华网 美国中期选举开始投票 2026-11-03 19:01:16 来源：新华网 新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日开始举行中期选举投票。",
+        "美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州 东部一些州的投票点率先开启投票。",
+        "在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。",
+        "在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个"
+      ],
+      "entities": [
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "6c7f0adc9043a643",
+          "type": "date",
+          "value": "2026-11-03",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "2026-11-03"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "48bcff230a053130",
+          "type": "number",
+          "value": "2026 ",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "2026 "
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "e81272a9f9aeab5c",
+          "type": "number",
+          "value": "03 ",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "03 "
+        },
+        {
+          "entity_id": "8c5f0c0441de9d77",
+          "type": "number",
+          "value": "19",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "19"
+        },
+        {
+          "entity_id": "eda8759a886672cc",
+          "type": "number",
+          "value": "01",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "01"
+        },
+        {
+          "entity_id": "ca95935774282f74",
+          "type": "number",
+          "value": "16 ",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "16 "
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "84ef4ce74114bd5f",
+          "type": "number",
+          "value": "6",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "6"
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "435"
+        },
+        {
+          "entity_id": "de68d905702b985b",
+          "type": "number",
+          "value": "100",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "100"
+        },
+        {
+          "entity_id": "93c55b0be07dce22",
+          "type": "number",
+          "value": "35",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "35"
+        },
+        {
+          "entity_id": "6971bc8777e4c622",
+          "type": "named_topic",
+          "value": "期中考试",
+          "source_id": "c9c1713ea6b981f52c38",
+          "evidence": "期中考试"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 16,
+        "event_count": 0
+      },
+      "content_fingerprint": "cc106fc4f43d9714f427cc345af6645119a765b134ae48a153bf142ea433e6b4",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "9a10bde97c69a939fb63",
+      "type": "news",
+      "title": "美国中期选举今日正式开选 两党国会版图或迎调整!",
+      "url": "https://kan.china.com/article/5190138.html",
+      "summary": "美国中期选举今日正式开选 两党国会版图或迎调整！\n2026-11-03 11:14 央视新闻\n美国中期选举将于3日举行。截至当地时间10月31日，已有创纪录的5000万人提前投票。本次美国中期选举被视为美国民众对特朗普政府近两年执政表现的一\n次评分，也将影响共和党和民主党未来两年在国会的力量对比及在各州的影响力。\n什么是美国中期选举\n美国中期选举是在总统四年任期中段举行的选举。今年的中期选举，共和党和民主党将角逐国会众议院全部435个席位和参议院",
+      "published_at": "2026-11-03T11:14:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821686+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举今日正式开选 两党国会版图或迎调整! 美国中期选举今日正式开选 两党国会版图或迎调整！ 2026-11-03 11:14 央视新闻 美国中期选举将于3日举行。截至当地时间10月31日，已有创纪录的5000万人提前投票。本次美国中期选举被视为美国民众对特朗普政府近两年执政表现的一 次评分，也将影响共和党和民主党未来两年在国会的力量对比及在各州的影响力。 什么是美国中期选举 美国中期选举是在总统四年任期中段举行的选举。今年的中期选举，共和党和民主党将角逐国会众议院全部435个席位和参议院",
+      "language": "zh",
+      "segments": [
+        "美国中期选举今日正式开选 两党国会版图或迎调整!",
+        "美国中期选举今日正式开选 两党国会版图或迎调整！",
+        "2026-11-03 11:14 央视新闻 美国中期选举将于3日举行。",
+        "截至当地时间10月31日，已有创纪录的5000万人提前投票。",
+        "本次美国中期选举被视为美国民众对特朗普政府近两年执政表现的一 次评分，也将影响共和党和民主党未来两年在国会的力量对比及在各州的影响力。",
+        "什么是美国中期选举 美国中期选举是在总统四年任期中段举行的选举。",
+        "今年的中期选举，共和党和民主党将角逐国会众议院全部435个席位和参议院"
+      ],
+      "entities": [
+        {
+          "entity_id": "6c7f0adc9043a643",
+          "type": "date",
+          "value": "2026-11-03",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "2026-11-03"
+        },
+        {
+          "entity_id": "91b26d3b25854a0b",
+          "type": "date",
+          "value": "10月31日",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "10月31日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "e81272a9f9aeab5c",
+          "type": "number",
+          "value": "03 ",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "03 "
+        },
+        {
+          "entity_id": "7613bf4738111fa0",
+          "type": "number",
+          "value": "14 ",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "14 "
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "8c8426667a2ed673",
+          "type": "number",
+          "value": "10",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "10"
+        },
+        {
+          "entity_id": "be9fd96b29c8d68c",
+          "type": "number",
+          "value": "31",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "31"
+        },
+        {
+          "entity_id": "a331823c6c23b938",
+          "type": "number",
+          "value": "5000",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "5000"
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "9a10bde97c69a939fb63",
+          "evidence": "435"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 7,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "3661a31e44488c412d709b95d20915afc3f8c56c9cbd0ee8987985929c7b7c40",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "bcf85f3638462f3f452c",
+      "type": "news",
+      "title": "什么是美国中期选举 总统执政的“期中考试”_新闻频道_中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261103/49835620.html",
+      "summary": "什么是美国中期选举 总统执政的“期中考试”\n小大\n关键词：\n2026-11-03 09:43:37\n新华网\n美国中期选举定于11月3日举行，被视为民众对特朗普政府近两年执政表现的一次评分。此次选举还将影响共和党和民主党未来两年在国会的力量\n比及各州的影响力。主流民调预测，民主党有望夺取众议院，但在参议院能否“翻盘”存在较大变数。选举中金钱政治、党派对立等问题愈发严重，反映出美国政治面临的深层困境。\n中期选举将在总统四年任期中段举行，今年",
+      "published_at": "2026-11-03T00:00:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821605+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "什么是美国中期选举 总统执政的“期中考试”_新闻频道_中华网 什么是美国中期选举 总统执政的“期中考试” 小大 关键词： 2026-11-03 09:43:37 新华网 美国中期选举定于11月3日举行，被视为民众对特朗普政府近两年执政表现的一次评分。此次选举还将影响共和党和民主党未来两年在国会的力量 比及各州的影响力。主流民调预测，民主党有望夺取众议院，但在参议院能否“翻盘”存在较大变数。选举中金钱政治、党派对立等问题愈发严重，反映出美国政治面临的深层困境。 中期选举将在总统四年任期中段举行，今年",
+      "language": "zh",
+      "segments": [
+        "什么是美国中期选举 总统执政的“期中考试”_新闻频道_中华网 什么是美国中期选举 总统执政的“期中考试” 小大 关键词： 2026-11-03 09:43:37 新华网 美国中期选举定于11月3日举行，被视为民众对特朗普政府近两年执政表现的一次评分。",
+        "此次选举还将影响共和党和民主党未来两年在国会的力量 比及各州的影响力。",
+        "主流民调预测，民主党有望夺取众议院，但在参议院能否“翻盘”存在较大变数。",
+        "选举中金钱政治、党派对立等问题愈发严重，反映出美国政治面临的深层困境。",
+        "中期选举将在总统四年任期中段举行，今年"
+      ],
+      "entities": [
+        {
+          "entity_id": "6c7f0adc9043a643",
+          "type": "date",
+          "value": "2026-11-03",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "2026-11-03"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "e81272a9f9aeab5c",
+          "type": "number",
+          "value": "03 ",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "03 "
+        },
+        {
+          "entity_id": "8ca9f15d61259532",
+          "type": "number",
+          "value": "09",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "09"
+        },
+        {
+          "entity_id": "49c2d67553e75b39",
+          "type": "number",
+          "value": "43",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "43"
+        },
+        {
+          "entity_id": "f86e8d76817a99b9",
+          "type": "number",
+          "value": "37 ",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "37 "
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "6971bc8777e4c622",
+          "type": "named_topic",
+          "value": "期中考试",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "期中考试"
+        },
+        {
+          "entity_id": "d6fe05d51130137a",
+          "type": "named_topic",
+          "value": "翻盘",
+          "source_id": "bcf85f3638462f3f452c",
+          "evidence": "翻盘"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "683ffdd73699b2d8105cecefa70aa78cd7c85af99f15e9a5de1fe46c310ca543",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "bb7d126de882237cec07",
+      "type": "news",
+      "title": "美国在政治极化与民生困境中迎来中期选举-新华网",
+      "url": "http://www.xinhuanet.com/world/20261102/a965278870b3486e8b1e96fa2427896d/c.html",
+      "summary": "2026 11/02 15:32:47\n来源：新华网\n美国在政治极化与民生困境中迎来中期选举\n美国在政治极化与民生困境中迎来中期选举\n2026-11-02 15:32:47  来源：新华网\n新华社北京11月2日电（记者刘晨）美国中期选举将于11月3日举行。此次选举被视\n美国民众对特朗普政府近两年执政表现的一次评分，也将影响共和党和民主党未来两年在国会的力量对比及在各州的影响力。\n美国主流民调预测，民主党有望在选举中夺取众议院，但能否在参议院“翻盘”存在较大变数。同时，",
+      "published_at": "2026-11-02T15:32:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821466+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国在政治极化与民生困境中迎来中期选举-新华网 2026 11/02 15:32:47 来源：新华网 美国在政治极化与民生困境中迎来中期选举 美国在政治极化与民生困境中迎来中期选举 2026-11-02 15:32:47 来源：新华网 新华社北京11月2日电（记者刘晨）美国中期选举将于11月3日举行。此次选举被视 美国民众对特朗普政府近两年执政表现的一次评分，也将影响共和党和民主党未来两年在国会的力量对比及在各州的影响力。 美国主流民调预测，民主党有望在选举中夺取众议院，但能否在参议院“翻盘”存在较大变数。同时，",
+      "language": "zh",
+      "segments": [
+        "美国在政治极化与民生困境中迎来中期选举-新华网 2026 11/02 15:32:47 来源：新华网 美国在政治极化与民生困境中迎来中期选举 美国在政治极化与民生困境中迎来中期选举 2026-11-02 15:32:47 来源：新华网 新华社北京11月2日电（记者刘晨）美国中期选举将于11月3日举行。",
+        "此次选举被视 美国民众对特朗普政府近两年执政表现的一次评分，也将影响共和党和民主党未来两年在国会的力量对比及在各州的影响力。",
+        "美国主流民调预测，民主党有望在选举中夺取众议院，但能否在参议院“翻盘”存在较大变数。",
+        "同时，"
+      ],
+      "entities": [
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7b0a4266deb27592",
+          "type": "date",
+          "value": "2026-11-02",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "2026-11-02"
+        },
+        {
+          "entity_id": "b3b4479bc51c84f5",
+          "type": "date",
+          "value": "11月2日",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "11月2日"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "48bcff230a053130",
+          "type": "number",
+          "value": "2026 ",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "2026 "
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "e197abacce7f816e",
+          "type": "number",
+          "value": "02 ",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "02 "
+        },
+        {
+          "entity_id": "cdca42a13f630c42",
+          "type": "number",
+          "value": "15",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "15"
+        },
+        {
+          "entity_id": "7b3e50bd36399ece",
+          "type": "number",
+          "value": "32",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "32"
+        },
+        {
+          "entity_id": "a6dfd2636bff6eb7",
+          "type": "number",
+          "value": "47 ",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "47 "
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "ab6e749e180f2c5e",
+          "type": "number",
+          "value": "2",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "2"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "d6fe05d51130137a",
+          "type": "named_topic",
+          "value": "翻盘",
+          "source_id": "bb7d126de882237cec07",
+          "evidence": "翻盘"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 4,
+        "entity_count": 14,
+        "event_count": 0
+      },
+      "content_fingerprint": "6df7374c1cd91c29ce0541913c7fe555407dc56ec3db71113a871088d53be342",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "7fcc3c6a68adba127e63",
+      "type": "news",
+      "title": "美国中期选举倒计时:经济牌难打，共和党却将重金砸向性别议题|907编辑部_澎湃世界观_澎湃新闻-The Paper",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34359080",
+      "summary": "907编辑部\n美国中期选举倒计时：经济牌难打，共和党却将重金砸向性别议题｜907编辑部\n澎湃新闻编辑 张无为\n2026-10-29 16:07 澎湃新闻·澎湃播客 >\n2026年美国中期选举将在当地时间11月3日举行。众议院全部435个席位、35个参议院席位\n以及36个州的州长职位将进行改选。共和党目前同时控制白宫和国会两院，但在众议院的席位优势很小；民主党只需净增4席，便有可能夺回众议院。参议院目前由共和党以53席对47席占据多数，民主党同样需要净增4席才能取得控制",
+      "published_at": "2026-11-02T06:42:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821670+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国中期选举倒计时:经济牌难打，共和党却将重金砸向性别议题|907编辑部_澎湃世界观_澎湃新闻-The Paper 907编辑部 美国中期选举倒计时：经济牌难打，共和党却将重金砸向性别议题｜907编辑部 澎湃新闻编辑 张无为 2026-10-29 16:07 澎湃新闻·澎湃播客 > 2026年美国中期选举将在当地时间11月3日举行。众议院全部435个席位、35个参议院席位 以及36个州的州长职位将进行改选。共和党目前同时控制白宫和国会两院，但在众议院的席位优势很小；民主党只需净增4席，便有可能夺回众议院。参议院目前由共和党以53席对47席占据多数，民主党同样需要净增4席才能取得控制",
+      "language": "zh-en",
+      "segments": [
+        "美国中期选举倒计时:经济牌难打，共和党却将重金砸向性别议题|907编辑部_澎湃世界观_澎湃新闻-The Paper 907编辑部 美国中期选举倒计时：经济牌难打，共和党却将重金砸向性别议题｜907编辑部 澎湃新闻编辑 张无为 2026-10-29 16:07 澎湃新闻·澎湃播客 > 2026年美国中期选举将在当地时间11月3日举行。",
+        "众议院全部435个席位、35个参议院席位 以及36个州的州长职位将进行改选。",
+        "共和党目前同时控制白宫和国会两院，但在众议院的席位优势很小；",
+        "民主党只需净增4席，便有可能夺回众议院。",
+        "参议院目前由共和党以53席对47席占据多数，民主党同样需要净增4席才能取得控制"
+      ],
+      "entities": [
+        {
+          "entity_id": "b926c3d2971de168",
+          "type": "date",
+          "value": "2026-10-29",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "2026-10-29"
+        },
+        {
+          "entity_id": "8e29f20854db9347",
+          "type": "date",
+          "value": "2026",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "56ee9fcda441e9a5",
+          "type": "number",
+          "value": "907",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "907"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "8c8426667a2ed673",
+          "type": "number",
+          "value": "10",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "10"
+        },
+        {
+          "entity_id": "b4e4338ceb435e0d",
+          "type": "number",
+          "value": "29 ",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "29 "
+        },
+        {
+          "entity_id": "d174beb63ae9e91a",
+          "type": "number",
+          "value": "16",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "16"
+        },
+        {
+          "entity_id": "6e4e5521e959b3a9",
+          "type": "number",
+          "value": "07 ",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "07 "
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "435"
+        },
+        {
+          "entity_id": "93c55b0be07dce22",
+          "type": "number",
+          "value": "35",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "35"
+        },
+        {
+          "entity_id": "92eb532892c807f1",
+          "type": "number",
+          "value": "36",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "36"
+        },
+        {
+          "entity_id": "35bb50dd77e38290",
+          "type": "number",
+          "value": "4",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "4"
+        },
+        {
+          "entity_id": "7193380565bc0d11",
+          "type": "number",
+          "value": "53",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "53"
+        },
+        {
+          "entity_id": "d4c6629d4ff468bf",
+          "type": "number",
+          "value": "47",
+          "source_id": "7fcc3c6a68adba127e63",
+          "evidence": "47"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 17,
+        "event_count": 0
+      },
+      "content_fingerprint": "99a61f10102f02f9f5c7554081136b411e244e409888ace69015934b04b3ca2f",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "30012e16b485a16f1537",
+      "type": "news",
+      "title": "快问快答丨八个问题带你看懂美国中期选举 - 新华网客户端",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20261102481cb76938a84140897037d1c82738ac",
+      "summary": "快问快答丨八个问题带你看懂美国中期选举\n新华社  6097  · 2026-11-02\n美国中期选举将于11月3日举行，共和党和民主党围绕国会两院席位以及诸多州级和地方层面席位展开激烈争夺。现任总统特朗普的名字并不在选票上，但他最近四\n处助选，这场选举究竟选什么？为什么这次格外重要？对特朗普政府意味着什么？哪些因素会左右选举结果？请跟随新华社记者快速了解。（记者：柳丝；视频：董亚雷、杨依然）\n（责任编辑 邱丽芳）",
+      "published_at": "2026-11-02T00:00:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821570+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "快问快答丨八个问题带你看懂美国中期选举 - 新华网客户端 快问快答丨八个问题带你看懂美国中期选举 新华社 6097 · 2026-11-02 美国中期选举将于11月3日举行，共和党和民主党围绕国会两院席位以及诸多州级和地方层面席位展开激烈争夺。现任总统特朗普的名字并不在选票上，但他最近四 处助选，这场选举究竟选什么？为什么这次格外重要？对特朗普政府意味着什么？哪些因素会左右选举结果？请跟随新华社记者快速了解。（记者：柳丝；视频：董亚雷、杨依然） （责任编辑 邱丽芳）",
+      "language": "zh",
+      "segments": [
+        "快问快答丨八个问题带你看懂美国中期选举 - 新华网客户端 快问快答丨八个问题带你看懂美国中期选举 新华社 6097 · 2026-11-02 美国中期选举将于11月3日举行，共和党和民主党围绕国会两院席位以及诸多州级和地方层面席位展开激烈争夺。",
+        "现任总统特朗普的名字并不在选票上，但他最近四 处助选，这场选举究竟选什么？",
+        "为什么这次格外重要？",
+        "对特朗普政府意味着什么？",
+        "哪些因素会左右选举结果？",
+        "请跟随新华社记者快速了解。",
+        "（记者：柳丝；",
+        "视频：董亚雷、杨依然） （责任编辑 邱丽芳）"
+      ],
+      "entities": [
+        {
+          "entity_id": "7b0a4266deb27592",
+          "type": "date",
+          "value": "2026-11-02",
+          "source_id": "30012e16b485a16f1537",
+          "evidence": "2026-11-02"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "30012e16b485a16f1537",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "05e3326f629a5c30",
+          "type": "number",
+          "value": "6097 ",
+          "source_id": "30012e16b485a16f1537",
+          "evidence": "6097 "
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "30012e16b485a16f1537",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "30012e16b485a16f1537",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "e197abacce7f816e",
+          "type": "number",
+          "value": "02 ",
+          "source_id": "30012e16b485a16f1537",
+          "evidence": "02 "
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "30012e16b485a16f1537",
+          "evidence": "3"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 8,
+        "entity_count": 7,
+        "event_count": 0
+      },
+      "content_fingerprint": "68d101d577fef5510bd1198425ef77a0e35cefac70f188dff2714ed5641d8cc2",
+      "relevance_score": 1.0
+    },
+    {
+      "source_id": "9115f7b6cfee1b4faba8",
+      "type": "news",
+      "title": "视频丨美国举行中期选举投票 多州开始计票",
+      "url": "https://ysxw.cctv.cn/article.html?channelId=1119&item_id=10865765063470449597&toc_style_id=feeds_default",
+      "summary": "视频丨美国举行中期选举投票 多州开始计票\n2026-11-04 12:13:30\n美国3日举行中期选举投票，目前投票仍持续进行。据美国方面消息，截至目前，数十个州的投票站已经关闭，开始进行计票工作。在通胀高企、生活成本上升的背景下，\n特朗普政府第二任期迎来一场形势严峻的“期中考试”。\n在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。选民还将选出36个州的州长以及部分州的州议会议员等地方公职人员。\n本",
+      "published_at": "2026-11-04T12:13:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821425+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "视频丨美国举行中期选举投票 多州开始计票 视频丨美国举行中期选举投票 多州开始计票 2026-11-04 12:13:30 美国3日举行中期选举投票，目前投票仍持续进行。据美国方面消息，截至目前，数十个州的投票站已经关闭，开始进行计票工作。在通胀高企、生活成本上升的背景下， 特朗普政府第二任期迎来一场形势严峻的“期中考试”。 在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。选民还将选出36个州的州长以及部分州的州议会议员等地方公职人员。 本",
+      "language": "zh",
+      "segments": [
+        "视频丨美国举行中期选举投票 多州开始计票 视频丨美国举行中期选举投票 多州开始计票 2026-11-04 12:13:30 美国3日举行中期选举投票，目前投票仍持续进行。",
+        "据美国方面消息，截至目前，数十个州的投票站已经关闭，开始进行计票工作。",
+        "在通胀高企、生活成本上升的背景下， 特朗普政府第二任期迎来一场形势严峻的“期中考试”。",
+        "在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。",
+        "选民还将选出36个州的州长以及部分州的州议会议员等地方公职人员。",
+        "本"
+      ],
+      "entities": [
+        {
+          "entity_id": "766781e677a80a1f",
+          "type": "date",
+          "value": "2026-11-04",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "2026-11-04"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "5aad3c461382d38b",
+          "type": "number",
+          "value": "04 ",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "04 "
+        },
+        {
+          "entity_id": "fcef0ee2bcead433",
+          "type": "number",
+          "value": "12",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "12"
+        },
+        {
+          "entity_id": "f46919ba9b0b2509",
+          "type": "number",
+          "value": "13",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "13"
+        },
+        {
+          "entity_id": "e922d575d950c6a8",
+          "type": "number",
+          "value": "30 ",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "30 "
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "435"
+        },
+        {
+          "entity_id": "de68d905702b985b",
+          "type": "number",
+          "value": "100",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "100"
+        },
+        {
+          "entity_id": "93c55b0be07dce22",
+          "type": "number",
+          "value": "35",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "35"
+        },
+        {
+          "entity_id": "92eb532892c807f1",
+          "type": "number",
+          "value": "36",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "36"
+        },
+        {
+          "entity_id": "6971bc8777e4c622",
+          "type": "named_topic",
+          "value": "期中考试",
+          "source_id": "9115f7b6cfee1b4faba8",
+          "evidence": "期中考试"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 6,
+        "entity_count": 13,
+        "event_count": 0
+      },
+      "content_fingerprint": "3475aca16a83ea8ba7a54ac1c385ee7cbaf241b5046db39a5861bb91e6fb2626",
+      "relevance_score": 0.0
+    },
+    {
+      "source_id": "80e23fc1abd089f07a3d",
+      "type": "news",
+      "title": "美国举行中期选举投票 特朗普政府迎来“期中考试” - 求是网",
+      "url": "http://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
+      "summary": "美国举行中期选举投票 特朗普政府迎来“期中考试”\n来源：新华网  作者：记者 熊茂伶 杨伶  2026-11-04 10:39:43\n新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州\n纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。\n11月3日，选民在美国纽约的一处投票站投票。新华社记者 张凤国 摄\n在本",
+      "published_at": "2026-11-04T10:39:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821518+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "美国举行中期选举投票 特朗普政府迎来“期中考试” - 求是网 美国举行中期选举投票 特朗普政府迎来“期中考试” 来源：新华网 作者：记者 熊茂伶 杨伶 2026-11-04 10:39:43 新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州 纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。 11月3日，选民在美国纽约的一处投票站投票。新华社记者 张凤国 摄 在本",
+      "language": "zh",
+      "segments": [
+        "美国举行中期选举投票 特朗普政府迎来“期中考试” - 求是网 美国举行中期选举投票 特朗普政府迎来“期中考试” 来源：新华网 作者：记者 熊茂伶 杨伶 2026-11-04 10:39:43 新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日举行中期选举投票。",
+        "美国东部时间早6时（北京时间19时），缅因州 纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。",
+        "在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。",
+        "11月3日，选民在美国纽约的一处投票站投票。",
+        "新华社记者 张凤国 摄 在本"
+      ],
+      "entities": [
+        {
+          "entity_id": "766781e677a80a1f",
+          "type": "date",
+          "value": "2026-11-04",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "2026-11-04"
+        },
+        {
+          "entity_id": "370dda42d25b400b",
+          "type": "date",
+          "value": "11月3日",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "11月3日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "5aad3c461382d38b",
+          "type": "number",
+          "value": "04 ",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "04 "
+        },
+        {
+          "entity_id": "8c8426667a2ed673",
+          "type": "number",
+          "value": "10",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "10"
+        },
+        {
+          "entity_id": "d1cb52f90aa2050c",
+          "type": "number",
+          "value": "39",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "39"
+        },
+        {
+          "entity_id": "d97cac1fa6e456cf",
+          "type": "number",
+          "value": "43 ",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "43 "
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "84ef4ce74114bd5f",
+          "type": "number",
+          "value": "6",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "6"
+        },
+        {
+          "entity_id": "8c5f0c0441de9d77",
+          "type": "number",
+          "value": "19",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "19"
+        },
+        {
+          "entity_id": "6971bc8777e4c622",
+          "type": "named_topic",
+          "value": "期中考试",
+          "source_id": "80e23fc1abd089f07a3d",
+          "evidence": "期中考试"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 12,
+        "event_count": 0
+      },
+      "content_fingerprint": "d758c15876217f8d7ecc2c722c785d53f8aa00f42309d9756e6b36a713b8a9e1",
+      "relevance_score": 0.0
+    },
+    {
+      "source_id": "86e89889254be1d6d4c5",
+      "type": "news",
+      "title": "特朗普政府迎来“期中考试” 楚天都市报",
+      "url": "https://ctdsbepaper.hubeidaily.net/pad/content/202611/04/content_362314.html",
+      "summary": "美国举行中期选举投票\n特朗普政府迎来“期中考试”\n2026年11月04日\n据新华社电 美国3日举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。在通胀高企、\n活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。\n在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。选民还将选出36个州的州长以及部分州的州议会议",
+      "published_at": "2026-11-04T00:00:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821654+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "特朗普政府迎来“期中考试” 楚天都市报 美国举行中期选举投票 特朗普政府迎来“期中考试” 2026年11月04日 据新华社电 美国3日举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。在通胀高企、 活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。 在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。选民还将选出36个州的州长以及部分州的州议会议",
+      "language": "zh",
+      "segments": [
+        "特朗普政府迎来“期中考试” 楚天都市报 美国举行中期选举投票 特朗普政府迎来“期中考试” 2026年11月04日 据新华社电 美国3日举行中期选举投票。",
+        "美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。",
+        "在通胀高企、 活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。",
+        "在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。",
+        "选民还将选出36个州的州长以及部分州的州议会议"
+      ],
+      "entities": [
+        {
+          "entity_id": "78bdff626c37a35f",
+          "type": "date",
+          "value": "2026年11月04日",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "2026年11月04日"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "5205b7adea0c9543",
+          "type": "number",
+          "value": "04",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "04"
+        },
+        {
+          "entity_id": "162b6c85bac78bb2",
+          "type": "number",
+          "value": "3",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "3"
+        },
+        {
+          "entity_id": "84ef4ce74114bd5f",
+          "type": "number",
+          "value": "6",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "6"
+        },
+        {
+          "entity_id": "8c5f0c0441de9d77",
+          "type": "number",
+          "value": "19",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "19"
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "435"
+        },
+        {
+          "entity_id": "de68d905702b985b",
+          "type": "number",
+          "value": "100",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "100"
+        },
+        {
+          "entity_id": "93c55b0be07dce22",
+          "type": "number",
+          "value": "35",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "35"
+        },
+        {
+          "entity_id": "92eb532892c807f1",
+          "type": "number",
+          "value": "36",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "36"
+        },
+        {
+          "entity_id": "6971bc8777e4c622",
+          "type": "named_topic",
+          "value": "期中考试",
+          "source_id": "86e89889254be1d6d4c5",
+          "evidence": "期中考试"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 5,
+        "entity_count": 12,
+        "event_count": 0
+      },
+      "content_fingerprint": "805ad74805bc5eb57339879bafb631b4c332da0b308a28e5cb03b223bed3042a",
+      "relevance_score": 0.0
+    },
+    {
+      "source_id": "b6616b6b5833c265aed6",
+      "type": "news",
+      "title": "特朗普的“期中考试”来了!",
+      "url": "https://www.nfnews.com/content/5yppg0QEyp.html",
+      "summary": "特朗普的“期中考试”来了！\n九万里 2026-11-03 07:37\n美国将迎来中期选举，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。此外，还将选出36个州的州长以及部分州的州议会议员等地方公职人员。\n这场\n视为特朗普执政“期中考试”的选举，既是美国宪法制衡机制的周期性体现，也是当下美国社会民意情绪的阶段性释放。选举结果不仅将重塑未来两年美国国会权力格局，也将成为观察美国政治走向的重要窗口。\n在任总统的“期",
+      "published_at": "2026-11-03T07:37:00+08:00",
+      "collected_at": "2026-11-06T13:16:40.821704+00:00",
+      "input_family": "public_info",
+      "provider": "volcengine_mcp_search",
+      "clean_text": "特朗普的“期中考试”来了! 特朗普的“期中考试”来了！ 九万里 2026-11-03 07:37 美国将迎来中期选举，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。此外，还将选出36个州的州长以及部分州的州议会议员等地方公职人员。 这场 视为特朗普执政“期中考试”的选举，既是美国宪法制衡机制的周期性体现，也是当下美国社会民意情绪的阶段性释放。选举结果不仅将重塑未来两年美国国会权力格局，也将成为观察美国政治走向的重要窗口。 在任总统的“期",
+      "language": "zh",
+      "segments": [
+        "特朗普的“期中考试”来了!",
+        "特朗普的“期中考试”来了！",
+        "九万里 2026-11-03 07:37 美国将迎来中期选举，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。",
+        "此外，还将选出36个州的州长以及部分州的州议会议员等地方公职人员。",
+        "这场 视为特朗普执政“期中考试”的选举，既是美国宪法制衡机制的周期性体现，也是当下美国社会民意情绪的阶段性释放。",
+        "选举结果不仅将重塑未来两年美国国会权力格局，也将成为观察美国政治走向的重要窗口。",
+        "在任总统的“期"
+      ],
+      "entities": [
+        {
+          "entity_id": "6c7f0adc9043a643",
+          "type": "date",
+          "value": "2026-11-03",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "2026-11-03"
+        },
+        {
+          "entity_id": "16ccb9f1c39e2b20",
+          "type": "number",
+          "value": "2026",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "2026"
+        },
+        {
+          "entity_id": "7df171430b4050d8",
+          "type": "number",
+          "value": "11",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "11"
+        },
+        {
+          "entity_id": "e81272a9f9aeab5c",
+          "type": "number",
+          "value": "03 ",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "03 "
+        },
+        {
+          "entity_id": "329f54a45cc6515f",
+          "type": "number",
+          "value": "07",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "07"
+        },
+        {
+          "entity_id": "f86e8d76817a99b9",
+          "type": "number",
+          "value": "37 ",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "37 "
+        },
+        {
+          "entity_id": "a5b04c8eb6e8bf43",
+          "type": "number",
+          "value": "435",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "435"
+        },
+        {
+          "entity_id": "de68d905702b985b",
+          "type": "number",
+          "value": "100",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "100"
+        },
+        {
+          "entity_id": "93c55b0be07dce22",
+          "type": "number",
+          "value": "35",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "35"
+        },
+        {
+          "entity_id": "92eb532892c807f1",
+          "type": "number",
+          "value": "36",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "36"
+        },
+        {
+          "entity_id": "6971bc8777e4c622",
+          "type": "named_topic",
+          "value": "期中考试",
+          "source_id": "b6616b6b5833c265aed6",
+          "evidence": "期中考试"
+        }
+      ],
+      "events": [],
+      "processing": {
+        "cleaned": true,
+        "segment_count": 7,
+        "entity_count": 11,
+        "event_count": 0
+      },
+      "content_fingerprint": "09b6211da3c950b0ee51eaf65b3fd5e5b9a22993b443136a0e51b22544535726",
+      "relevance_score": 0.0
+    }
+  ]
+}

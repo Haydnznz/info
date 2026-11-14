@@ -1,0 +1,17 @@
+{
+  "query": "人工智能大模型",
+  "executed_at": "2026-11-04T19:29:28.992085+08:00",
+  "sources": [
+    {
+      "source_id": "502293866ba8cb8fded3",
+      "type": "internal_data",
+      "title": "内部演示数据",
+      "url": "internal://demo",
+      "summary": "未配置内部数据目录，主题 人工智能大模型 暂无匹配记录。",
+      "published_at": null,
+      "collected_at": "2026-11-04T11:29:28.996226+00:00",
+      "input_family": "internal_data",
+      "relevance_score": 1.0
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "system": {
+    "name": "舆情分析平台",
+    "port": 9000
+  },
+  "apps": {
+    "topic_search": {
+      "enabled": true
+    },
+    "multimedia_search": {
+      "enabled": true
+    },
+    "insight_analysis": {
+      "enabled": true
+    },
+    "report_generator": {
+      "enabled": true
+    }
+  },
+  "collection": {
+    "keywords": [
+      "人工智能",
+      "大模型"
+    ],
+    "interval_seconds": 5,
+    "max_records": 20,
+    "volcengine_search": {
+      "enabled": true,
+      "mode": "responses",
+      "timeout_seconds": 30
+    },
+    "multimedia": {
+      "wikimedia_enabled": false
+    },
+    "internal": {
+      "directory": "data/internal",
+      "demo_fallback": false
+    }
+  },
+  "runtime": {
+    "demo_mode": true
+  },
+  "cluster": {
+    "role": "coordinator",
+    "worker_lease_seconds": 30,
+    "max_attempts": 3,
+    "worker_token_env": "OPINION_WORKER_TOKEN"
+  }
+}

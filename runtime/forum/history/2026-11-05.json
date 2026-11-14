@@ -1,0 +1,8 @@
+[
+  {
+    "time": "2026-11-05T16:34:36.029989+08:00",
+    "event_type": "collector",
+    "message_text": "演示论坛任务已停止",
+    "task_status": "stopped"
+  }
+]

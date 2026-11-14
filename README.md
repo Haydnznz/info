@@ -88,6 +88,22 @@ Worker 内部接口位于 `/internal/*`，必须使用 `Authorization: Bearer $O
 
 报告包含事件概述、时间线、传播渠道、主要观点、情绪倾向、风险判断、重点证据和结论摘要；图谱节点、关系均带来源引用。
 
+## 可观测性
+
+平台现在提供三类观测数据：
+
+- `X-Trace-Id`：每次 HTTP 请求自动生成或透传，并写入任务负载，用于串联请求、任务、Worker 和分析阶段。
+- `/metrics`：Prometheus 文本格式，包含请求数、请求耗时、队列任务数、Worker 数、任务成功/失败数、分析阶段耗时和重试数。
+- `GET /api/observability`：管理员查看当前队列、Worker 和进程内指标快照。
+
+结构化 JSONL 事件写入：
+
+```text
+runtime/observability.jsonl
+```
+
+事件包含 HTTP 请求、任务入队/成功/失败、Worker 执行和 LangGraph 分析阶段耗时。指标注册表是进程级的，Prometheus 应分别抓取 Coordinator；任务状态和业务结果仍以 SQLite、报告和图谱文件为准。
+
 ## 质量检查
 
 GitHub Actions 工作流位于 `.github/workflows/quality.yml`，在 `main`、`dev` 分支的 push 和 pull request 上执行 Ruff、现有单元/集成测试和 Playwright Chromium 浏览器冒烟测试。CI 使用轻量的 `requirements-ci.txt`，不会下载 BGE 等本地模型依赖。

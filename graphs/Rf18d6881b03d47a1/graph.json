@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "topic",
+      "label": "美国公务机坠毁",
+      "type": "topic"
+    },
+    {
+      "id": "verification",
+      "label": "待核验",
+      "type": "status"
+    },
+    {
+      "id": "4d3f9d06265e43601d81",
+      "label": "内部演示数据",
+      "type": "internal_data"
+    },
+    {
+      "id": "risk",
+      "label": "未经核验的信息扩散",
+      "type": "risk"
+    },
+    {
+      "id": "official",
+      "label": "官方通报待补充",
+      "type": "evidence_gap"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "verification",
+      "type": "证据状态",
+      "source_ref": "internal://demo"
+    },
+    {
+      "source": "topic",
+      "target": "4d3f9d06265e43601d81",
+      "type": "来源证据",
+      "source_ref": "internal://demo"
+    },
+    {
+      "source": "topic",
+      "target": "risk",
+      "type": "关注风险",
+      "source_ref": "internal://demo"
+    },
+    {
+      "source": "topic",
+      "target": "official",
+      "type": "缺失证据",
+      "source_ref": "internal://demo"
+    }
+  ],
+  "report_id": "Rf18d6881b03d47a1",
+  "created_at": "2026-11-03T21:14:56.573665+08:00"
+}

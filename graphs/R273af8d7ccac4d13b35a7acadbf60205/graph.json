@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "topic",
+      "label": "人工智能大模型",
+      "type": "topic"
+    },
+    {
+      "id": "verification",
+      "label": "待核验",
+      "type": "status"
+    },
+    {
+      "id": "502293866ba8cb8fded3",
+      "label": "内部演示数据",
+      "type": "internal_data"
+    },
+    {
+      "id": "risk",
+      "label": "未经核验的信息扩散",
+      "type": "risk"
+    },
+    {
+      "id": "official",
+      "label": "官方通报待补充",
+      "type": "evidence_gap"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "verification",
+      "type": "证据状态",
+      "source_ref": "internal://demo"
+    },
+    {
+      "source": "topic",
+      "target": "502293866ba8cb8fded3",
+      "type": "来源证据",
+      "source_ref": "internal://demo"
+    },
+    {
+      "source": "topic",
+      "target": "risk",
+      "type": "关注风险",
+      "source_ref": "internal://demo"
+    },
+    {
+      "source": "topic",
+      "target": "official",
+      "type": "缺失证据",
+      "source_ref": "internal://demo"
+    }
+  ],
+  "report_id": "R273af8d7ccac4d13b35a7acadbf60205",
+  "created_at": "2026-11-04T19:29:28.992085+08:00"
+}

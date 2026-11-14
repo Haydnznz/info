@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>登录 · 舆情分析平台</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body class="login-page">
+  <main class="login-shell">
+    <section class="login-brand-panel">
+      <div class="brand-mark">情</div>
+      <p class="login-eyebrow">INTELLIGENCE WORKBENCH</p>
+      <h1>舆情分析平台</h1>
+      <p>统一信息采集、分析研判与证据溯源工作台</p>
+      <div class="login-security">受控访问 · 操作留痕 · 证据可追溯</div>
+    </section>
+    <section class="login-card" aria-labelledby="loginTitle">
+      <div class="login-card-head"><span class="eyebrow">安全登录</span><h2 id="loginTitle">登录工作台</h2><p>使用平台账号进入情报研判控制台</p></div>
+      <form id="loginForm">
+        <label>用户名<input id="username" autocomplete="username" required placeholder="请输入用户名"></label>
+        <label>密码<input id="password" type="password" autocomplete="current-password" required placeholder="请输入密码"></label>
+        <div class="login-options"><label class="remember"><input id="remember" type="checkbox" checked> 记住登录账号</label><button type="button" class="link-button" onclick="openReset()">忘记密码？</button></div>
+        <button class="primary login-submit" type="submit">登录</button>
+        <p id="loginMessage" class="login-message" role="alert"></p>
+      </form>
+    </section>
+  </main>
+  <dialog id="resetDialog" class="reset-dialog">
+    <form id="resetForm" method="dialog">
+      <div class="dialog-head"><h2>重置密码</h2><button type="button" class="dialog-close" onclick="closeReset()">×</button></div>
+      <p class="muted">请输入管理员配置的密码重置令牌。未配置令牌时，请联系系统管理员。</p>
+      <label>用户名<input id="resetUsername" required></label>
+      <label>重置令牌<input id="resetToken" type="password" autocomplete="off" required></label>
+      <label>新密码<input id="newPassword" type="password" minlength="8" required placeholder="至少 8 位"></label>
+      <p id="resetMessage" class="login-message" role="alert"></p>
+      <div class="dialog-actions"><button type="button" onclick="closeReset()">取消</button><button class="primary" type="submit">确认重置</button></div>
+    </form>
+  </dialog>
+  <script>
+    const $=id=>document.getElementById(id);
+    const redirect=new URLSearchParams(location.search).get('redirect')||'/';
+    $('username').value=localStorage.getItem('infoAuthUser')||'';
+    $('loginForm').addEventListener('submit',async event=>{event.preventDefault();$('loginMessage').textContent='正在验证…';try{const r=await fetch('/api/auth/login',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({username:$('username').value.trim(),password:$('password').value})});const d=await r.json();if(!r.ok)throw Error(d.detail||d.error?.message||'登录失败');localStorage.setItem('infoAuthToken',d.access_token);if($('remember').checked)localStorage.setItem('infoAuthUser',$('username').value.trim());else localStorage.removeItem('infoAuthUser');location.href=redirect}catch(e){$('loginMessage').textContent=e.message}});
+    function openReset(){ $('resetUsername').value=$('username').value; $('resetMessage').textContent=''; $('resetDialog').showModal() }
+    function closeReset(){ $('resetDialog').close() }
+    $('resetForm').addEventListener('submit',async event=>{event.preventDefault();$('resetMessage').textContent='正在提交…';try{const r=await fetch('/api/auth/forgot-password',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({username:$('resetUsername').value.trim(),reset_token:$('resetToken').value,new_password:$('newPassword').value})});const d=await r.json();if(!r.ok)throw Error(d.detail||'密码重置失败');$('resetMessage').textContent=d.message;setTimeout(closeReset,800)}catch(e){$('resetMessage').textContent=e.message}});
+  </script>
+</body>
+</html>

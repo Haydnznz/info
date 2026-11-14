@@ -1,0 +1,42 @@
+{
+  "project": "info",
+  "assessed_at": "2026-11-08",
+  "timezone": "Asia/Shanghai",
+  "total": 72,
+  "max": 100,
+  "grade": "B",
+  "maturity": "可运行的工程原型",
+  "dimensions": [
+    {"name": "架构与模块边界", "weight": 15, "score": 13},
+    {"name": "需求功能覆盖", "weight": 20, "score": 15},
+    {"name": "三类输入与外部数据", "weight": 15, "score": 9},
+    {"name": "分析处理质量", "weight": 15, "score": 11},
+    {"name": "分布式与可靠性", "weight": 15, "score": 11},
+    {"name": "前端与运维交互", "weight": 10, "score": 8},
+    {"name": "安全、配置与审计", "weight": 5, "score": 2},
+    {"name": "测试、文档与交付", "weight": 5, "score": 3}
+  ],
+  "evidence": {
+    "python_modules": 34,
+    "python_lines": 2261,
+    "python_functions": 118,
+    "python_classes": 19,
+    "test_modules": 7,
+    "unit_tests": 23,
+    "unit_tests_passed": 23,
+    "api_route_declarations": 34,
+    "reports": 24,
+    "graphs": 24,
+    "forum_history_files": 5,
+    "mongodb_connectivity": "failed",
+    "milvus_connectivity": "failed",
+    "bge_model_path": "configured_and_exists"
+  },
+  "hard_blocks": [
+    "公开 API 缺少用户级鉴权和角色权限",
+    "论坛采集仍为演示任务控制",
+    "MongoDB 本轮连接失败",
+    "Milvus 本轮连接失败",
+    "真实 MCP、YouTube、LLM、多媒体样本回归未在本轮完成"
+  ]
+}
