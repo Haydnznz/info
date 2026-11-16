@@ -87,10 +87,10 @@ def main() -> None:
                 page.get_by_label('密码', exact=True).fill('playwright-admin-password')
                 page.get_by_role('button', name='登录').click()
                 page.wait_for_url(re.compile(r'/+$'), wait_until='domcontentloaded')
-                page.get_by_role('heading', name='控制台').wait_for()
+                page.get_by_role('heading', name='控制台').wait_for(timeout=15000)
 
                 page.get_by_role('button', name='报告管理').click()
-                page.get_by_text('Playwright 冒烟主题').wait_for()
+                page.get_by_text('Playwright 冒烟主题').wait_for(timeout=15000)
                 with context.expect_page() as report_page_info:
                     page.get_by_role('link', name='查看报告').click()
                 report_page = report_page_info.value
