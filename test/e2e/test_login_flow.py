@@ -83,8 +83,11 @@ def main() -> None:
                 # navigation event, which is timing-sensitive in CI.
                 page.goto(BASE_URL + '/', wait_until='domcontentloaded')
                 assert re.search(r'/login(?:\?.*)?$', page.url), page.url
-                page.get_by_label('用户名').fill('admin')
-                page.get_by_label('密码', exact=True).fill('playwright-admin-password')
+                # The hidden password-reset dialog also contains a username
+                # field, so label lookup is ambiguous under Playwright strict
+                # mode. Use the login form's unique IDs.
+                page.locator('#username').fill('admin')
+                page.locator('#password').fill('playwright-admin-password')
                 page.get_by_role('button', name='登录').click()
                 page.wait_for_url(re.compile(r'/+$'), wait_until='domcontentloaded')
                 page.get_by_role('heading', name='控制台').wait_for(timeout=15000)
