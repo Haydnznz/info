@@ -28,7 +28,9 @@ jobs:
       AUTH_VIEWER_USERNAME: viewer
       AUTH_VIEWER_PASSWORD: github-actions-viewer-password
       OPINION_WORKER_TOKEN: github-actions-worker-secret
-      OPINION_DATA_DIR: ${{ runner.temp }}/info-ci-data
+      # Job-level env cannot evaluate the runner context. The browser and
+      # unit tests use this workspace-local directory and recreate it per run.
+      OPINION_DATA_DIR: ${{ github.workspace }}/.ci-data
       MONGO_ENABLED: "false"
       MILVUS_ENABLED: "false"
       LLM_ENABLED: "false"
