@@ -2,6 +2,7 @@
 import json
 import os
 from pathlib import Path
+import re
 import subprocess
 import sys
 import tempfile
@@ -77,12 +78,15 @@ def main() -> None:
                 browser = playwright.chromium.launch()
                 context = browser.new_context()
                 page = context.new_page()
-                page.goto(BASE_URL + '/')
-                page.wait_for_url('**/login*')
+                # ``page.goto`` follows the API's 307 redirect. Assert the
+                # final URL directly instead of waiting for a second
+                # navigation event, which is timing-sensitive in CI.
+                page.goto(BASE_URL + '/', wait_until='domcontentloaded')
+                assert re.search(r'/login(?:\?.*)?$', page.url), page.url
                 page.get_by_label('用户名').fill('admin')
                 page.get_by_label('密码', exact=True).fill('playwright-admin-password')
                 page.get_by_role('button', name='登录').click()
-                page.wait_for_url(BASE_URL + '/')
+                page.wait_for_url(re.compile(r'/+$'), wait_until='domcontentloaded')
                 page.get_by_role('heading', name='控制台').wait_for()
 
                 page.get_by_role('button', name='报告管理').click()
@@ -96,7 +100,7 @@ def main() -> None:
                 report_page.close()
 
                 page.get_by_role('button', name='退出登录').click()
-                page.wait_for_url('**/login*')
+                page.wait_for_url(re.compile(r'/login(?:\?.*)?$'), wait_until='domcontentloaded')
                 page.get_by_role('heading', name='登录工作台').wait_for()
                 browser.close()
         finally:
